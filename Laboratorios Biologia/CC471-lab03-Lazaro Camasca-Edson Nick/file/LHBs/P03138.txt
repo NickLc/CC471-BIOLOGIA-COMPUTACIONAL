@@ -1,0 +1,303 @@
+ID   HBSAG_HBVD3             Reviewed;         389 AA.
+AC   P03138;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   16-OCT-2013, entry version 79.
+DE   RecName: Full=Large envelope protein;
+DE   AltName: Full=L glycoprotein;
+DE   AltName: Full=L-HBsAg;
+DE            Short=LHB;
+DE   AltName: Full=Large S protein;
+DE   AltName: Full=Large surface protein;
+DE   AltName: Full=Major surface antigen;
+GN   Name=S;
+OS   Hepatitis B virus genotype D subtype ayw (isolate
+OS   France/Tiollais/1979) (HBV-D).
+OC   Viruses; Retro-transcribing viruses; Hepadnaviridae;
+OC   Orthohepadnavirus.
+OX   NCBI_TaxID=490133;
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+OH   NCBI_TaxID=9598; Pan troglodytes (Chimpanzee).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=399327; DOI=10.1038/281646a0;
+RA   Galibert F., Mandart E., Fitoussi F., Tiollais P., Charnay P.;
+RT   "Nucleotide sequence of the hepatitis B virus genome (subtype ayw)
+RT   cloned in E. coli.";
+RL   Nature 281:646-650(1979).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=Latvia;
+RX   PubMed=3996597; DOI=10.1016/0014-5793(85)80771-7;
+RA   Bichko V., Pushko P., Dreilina D., Pumpen P., Gren E.Y.;
+RT   "Subtype ayw variant of hepatitis B virus. DNA primary structure
+RT   analysis.";
+RL   FEBS Lett. 185:208-212(1985).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=Latvia;
+RX   PubMed=6373205;
+RA   Kozlovskaia T.M., Pumpen P.P., Borisova G.P., Dishler A.V.,
+RA   Bychko V.V.;
+RT   "Synthesis of the full amino acid sequence of the surface antigen of
+RT   the hepatitis B virus in Escherichia coli.";
+RL   Dokl. Akad. Nauk SSSR 274:1250-1253(1984).
+RN   [4]
+RP   MYRISTOYLATION AT GLY-2.
+RX   PubMed=3573147;
+RA   Persing D.H., Varmus H.E., Ganem D.;
+RT   "The preS1 protein of hepatitis B virus is acylated at its amino
+RT   terminus with myristic acid.";
+RL   J. Virol. 61:1672-1677(1987).
+RN   [5]
+RP   TRANSMEMBRANE TOPOLOGY.
+RX   PubMed=7835336;
+RA   Prange R., Streeck R.E.;
+RT   "Novel transmembrane topology of the hepatitis B virus envelope
+RT   proteins.";
+RL   EMBO J. 14:247-256(1995).
+RN   [6]
+RP   MUTAGENESIS OF GLY-2.
+RX   PubMed=7491754; DOI=10.1006/viro.1995.0002;
+RA   Gripon P., Le Seyec J., Rumin S., Guguen-Guillouzo C.;
+RT   "Myristylation of the hepatitis B virus large surface protein is
+RT   essential for viral infectivity.";
+RL   Virology 213:292-299(1995).
+RN   [7]
+RP   FUNCTION.
+RX   PubMed=9420286;
+RA   Werr M., Prange R.;
+RT   "Role for calnexin and N-linked glycosylation in the assembly and
+RT   secretion of hepatitis B virus middle envelope protein particles.";
+RL   J. Virol. 72:778-782(1998).
+RN   [8]
+RP   GLYCOSYLATION AT ASN-112 AND THR-145, AND ACETYLATION AT MET-109.
+RC   STRAIN=Isolate clinical;
+RX   PubMed=10207016; DOI=10.1074/jbc.274.17.11945;
+RA   Schmitt S., Glebe D., Alving K., Tolle T.K., Linder M., Geyer H.,
+RA   Linder D., Peter-Katalinic J., Gerlich W.H., Geyer R.;
+RT   "Analysis of the pre-S2 N- and O-linked glycans of the M surface
+RT   protein from human hepatitis B virus.";
+RL   J. Biol. Chem. 274:11945-11957(1999).
+RN   [9]
+RP   GLYCOSYLATION AT THR-145.
+RX   PubMed=15218190; DOI=10.1099/vir.0.79932-0;
+RA   Schmitt S., Glebe D., Tolle T.K., Lochnit G., Linder D., Geyer R.,
+RA   Gerlich W.H.;
+RT   "Structure of pre-S2 N- and O-linked glycans in surface proteins from
+RT   different genotypes of hepatitis B virus.";
+RL   J. Gen. Virol. 85:2045-2053(2004).
+RN   [10]
+RP   FUNCTION.
+RX   PubMed=17020942; DOI=10.1128/JVI.00621-06;
+RA   Blanchet M., Sureau C.;
+RT   "Analysis of the cytosolic domains of the hepatitis B virus envelope
+RT   proteins for their function in viral particle assembly and
+RT   infectivity.";
+RL   J. Virol. 80:11935-11945(2006).
+RN   [11]
+RP   MUTAGENESIS OF LEU-11; GLY-12 AND 13-PHE-PHE-14.
+RX   PubMed=16557545; DOI=10.1002/hep.21112;
+RA   Engelke M., Mills K., Seitz S., Simon P., Gripon P., Schnolzer M.,
+RA   Urban S.;
+RT   "Characterization of a hepatitis B and hepatitis delta virus receptor
+RT   binding site.";
+RL   Hepatology 43:750-760(2006).
+RN   [12]
+RP   MUTAGENESIS OF 11-LEU--PRO-15; 16-ASP--ASP-20; 21-PRO--ALA-25;
+RP   26-ASN--PRO-30; 31-ASP--ASN-35; 36-PRO--THR-40; 41-TRP--ASN-45;
+RP   46-LYS--GLY-50; 51-ALA--GLY-55; 56-PHE--HIS-60; 61-GLY--GLY-65;
+RP   66-TRP--ALA-70; 71-GLN--GLN-75; 76-THR--ASN-80; 81-PRO--SER-85;
+RP   86-THR--SER-90; 91-GLY--THR-95; 96-PRO--PRO-100; 101-LEU--HIS-105 AND
+RP   106-PRO--GLN-110.
+RX   PubMed=17376925; DOI=10.1128/JVI.00096-07;
+RA   Blanchet M., Sureau C.;
+RT   "Infectivity determinants of the hepatitis B virus pre-S domain are
+RT   confined to the N-terminal 75 amino acid residues.";
+RL   J. Virol. 81:5841-5849(2007).
+RN   [13]
+RP   REVIEW.
+RX   PubMed=8957666;
+RA   Bruss V., Gerhardt E., Vieluf K., Wunderlich G.;
+RT   "Functions of the large hepatitis B virus surface protein in viral
+RT   particle morphogenesis.";
+RL   Intervirology 39:23-31(1996).
+RN   [14]
+RP   REVIEW.
+RX   PubMed=9498079;
+RA   Block T.M., Lu X., Mehta A., Park J., Blumberg B.S., Dwek R.;
+RT   "Role of glycan processing in hepatitis B virus envelope protein
+RT   trafficking.";
+RL   Adv. Exp. Med. Biol. 435:207-216(1998).
+RN   [15]
+RP   REVIEW.
+RX   PubMed=15567498; DOI=10.1016/j.virusres.2004.08.016;
+RA   Bruss V.;
+RT   "Envelopment of the hepatitis B virus nucleocapsid.";
+RL   Virus Res. 106:199-209(2004).
+RN   [16]
+RP   REVIEW.
+RX   PubMed=16863502; DOI=10.1111/j.1349-7006.2006.00235.x;
+RA   Wang H.C., Huang W., Lai M.D., Su I.J.;
+RT   "Hepatitis B virus pre-S mutants, endoplasmic reticulum stress and
+RT   hepatocarcinogenesis.";
+RL   Cancer Sci. 97:683-688(2006).
+CC   -!- FUNCTION: The large envelope protein exists in two topological
+CC       conformations, one which is termed 'external' or Le-HBsAg and the
+CC       other 'internal' or Li-HBsAg. In its external conformation the
+CC       protein attaches the virus to cell receptors and thereby
+CC       initiating infection. This interaction determines the species
+CC       specificity and liver tropism. This attachment induces virion
+CC       internalization predominantly through caveolin-mediated
+CC       endocytosis. The large envelope protein also assumes fusion
+CC       between virion membrane and endosomal membrane (Probable). In its
+CC       internal conformation the protein plays a role in virion
+CC       morphogenesis and mediates the contact with the nucleocapsid like
+CC       a matrix protein (By similarity).
+CC   -!- FUNCTION: The middle envelope protein plays an important role in
+CC       the budding of the virion. It is involved in the induction of
+CC       budding in a nucleocapsid independent way. In this process the
+CC       majority of envelope proteins bud to form subviral lipoprotein
+CC       particles of 22 nm of diameter that do not contain a nucleocapsid
+CC       (By similarity).
+CC   -!- SUBUNIT: Li-HBsAg interacts with capsid protein and with HDV Large
+CC       delta antigen. Isoform M associates with host chaperone CANX
+CC       through its pre-S2 N glycan. This association may be essential for
+CC       M proper secretion (By similarity).
+CC   -!- SUBCELLULAR LOCATION: Virion membrane (By similarity).
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing, Alternative initiation; Named isoforms=3;
+CC       Name=L; Synonyms=Large envelope protein, LHB, L-HBsAg;
+CC         IsoId=P03138-1; Sequence=Displayed;
+CC       Name=M; Synonyms=Middle envelope protein, MHB, M-HBsAg;
+CC         IsoId=P03138-2; Sequence=VSP_031405;
+CC       Name=S; Synonyms=Small envelope protein, SHB, S-HBsAg;
+CC         IsoId=P03138-3; Sequence=VSP_031404;
+CC   -!- DOMAIN: The large envelope protein is synthesized with the pre-S
+CC       region at the cytosolic side of the endoplasmic reticulum and,
+CC       hence will be within the virion after budding. Therefore the pre-S
+CC       region is not N-glycosylated. Later a post-translational
+CC       translocation of N-terminal pre-S and TM1 domains occur in about
+CC       50% of proteins at the virion surface. These molecules change
+CC       their topology by an unknown mechanism, resulting in exposure of
+CC       pre-S region at virion surface. For isoform M in contrast, the
+CC       pre-S2 region is translocated cotranslationally to the endoplasmic
+CC       reticulum lumen and is N-glycosylated.
+CC   -!- PTM: Isoform M is N-terminally acetylated at a ratio of 90%, N-
+CC       and O-glycosylated at the pre-S2 region.
+CC   -!- PTM: Myristoylated (By similarity).
+CC   -!- BIOTECHNOLOGY: Systematic vaccination of individuals at risk of
+CC       exposure to the virus has been the main method of controlling the
+CC       morbidity and mortality associated with hepatitis B. The first
+CC       hepatitis B vaccine was manufactured by the purification and
+CC       inactivation of HBsAg obtained from the plasma of chronic
+CC       hepatitis B virus carriers. The vaccine is now produced by
+CC       recombinant DNA techniques and expression of the S isoform in
+CC       yeast cells. The pre-S region do not seem to induce strong enough
+CC       antigenic response.
+CC   -!- SIMILARITY: Belongs to the orthohepadnavirus major surface antigen
+CC       family.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA45496.1; Type=Erroneous initiation;
+CC       Sequence=CAA26324.1; Type=Erroneous initiation;
+CC   -!- WEB RESOURCE: Name=HepSEQ; Note=Hepatitis virus B database;
+CC       URL="http://www.hpa-bioinformatics.org.uk/HepSEQ-Research/Public/Web_Front/main.php";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; V01460; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; X02496; CAA26324.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; M12393; AAA45496.1; ALT_INIT; Genomic_DNA.
+DR   PIR; A03703; SAVLAH.
+DR   EvolutionaryTrace; P03138; -.
+DR   GO; GO:0016021; C:integral to membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0055036; C:virion membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0019048; P:modulation by virus of host morphology or physiology; IEA:UniProtKB-KW.
+DR   GO; GO:0019062; P:viral attachment to host cell; IEA:UniProtKB-KW.
+DR   GO; GO:0075513; P:viral entry into host cell via caveolin-mediated endocytosis; IEA:UniProtKB-KW.
+DR   GO; GO:0039654; P:viral entry into host cell via endocytosis followed by membrane fusion with the endosome membrane; IEA:UniProtKB-KW.
+DR   InterPro; IPR000349; Hepvir_surfAg.
+DR   Pfam; PF00695; vMSA; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Alternative initiation; Alternative splicing;
+KW   Caveolin-mediated endocytosis of virus by host; Complete proteome;
+KW   Fusion of virus membrane with host endosomal membrane;
+KW   Fusion of virus membrane with host membrane; Glycoprotein;
+KW   Host-virus interaction; Lipoprotein; Membrane; Myristate;
+KW   Transmembrane; Transmembrane helix; Viral attachment to host cell;
+KW   Viral penetration into host cytoplasm; Virion;
+KW   Virus endocytosis by host; Virus entry into host cell.
+FT   INIT_MET      1      1       Removed; by host (By similarity).
+FT   CHAIN         2    389       Large envelope protein.
+FT                                /FTId=PRO_0000038107.
+FT   TOPO_DOM      2    242       Intravirion; in internal conformation
+FT                                (Potential).
+FT   TOPO_DOM      2    170       Virion surface; in external conformation
+FT                                (Potential).
+FT   TRANSMEM    171    191       Helical; Note=In external conformation;
+FT                                (Potential).
+FT   TOPO_DOM    192    242       Intravirion; in external conformation
+FT                                (Potential).
+FT   TRANSMEM    243    263       Helical; (Potential).
+FT   TOPO_DOM    264    337       Virion surface (Potential).
+FT   TRANSMEM    338    358       Helical; (Potential).
+FT   TOPO_DOM    359    364       Intravirion (Potential).
+FT   TRANSMEM    365    387       Helical; (Potential).
+FT   TOPO_DOM    388    389       Virion surface (Potential).
+FT   REGION        2    163       Pre-S.
+FT   REGION        2    108       Pre-S1.
+FT   REGION      109    163       Pre-S2.
+FT   MOD_RES     109    109       N-acetylmethionine; by host; in isoform
+FT                                M; partial.
+FT   LIPID         2      2       N-myristoyl glycine; by host (By
+FT                                similarity).
+FT   CARBOHYD    112    112       N-linked (GlcNAc...); by host; in isoform
+FT                                M.
+FT   CARBOHYD    145    145       O-linked (GalNAc...); by host; in isoform
+FT                                M.
+FT   CARBOHYD    309    309       N-linked (GlcNAc...); by host (By
+FT                                similarity).
+FT   VAR_SEQ       1    163       Missing (in isoform S).
+FT                                /FTId=VSP_031404.
+FT   VAR_SEQ       1    108       Missing (in isoform M).
+FT                                /FTId=VSP_031405.
+FT   VARIANT      75     75       Q -> E (in strain: Latvia).
+FT   VARIANT     147    147       A -> S (in strain: Latvia).
+FT   VARIANT     150    150       L -> I (in strain: Latvia).
+FT   VARIANT     288    290       MTT -> TTP (in strain: Latvia).
+FT   MUTAGEN       2      2       G->A: Complete loss of myristoylation.
+FT                                Complete loss of infectivity.
+FT   MUTAGEN      11     15       LGFFP->KL: Complete loss of infectivity.
+FT   MUTAGEN      11     11       L->R: Complete loss of infectivity.
+FT   MUTAGEN      12     12       G->E: Complete loss of infectivity.
+FT   MUTAGEN      13     14       FF->SS: Complete loss of infectivity.
+FT   MUTAGEN      13     13       F->S: Complete loss of infectivity.
+FT   MUTAGEN      16     20       DHQLD->KL: Complete loss of infectivity.
+FT   MUTAGEN      21     25       PAFRA->KL: Complete loss of infectivity.
+FT   MUTAGEN      26     30       NTANP->KL: Complete loss of infectivity.
+FT   MUTAGEN      31     35       DWDFN->KL: Complete loss of infectivity.
+FT   MUTAGEN      36     40       PNKDT->KL: Complete loss of infectivity.
+FT   MUTAGEN      41     45       WPDAN->KL: Complete loss of infectivity.
+FT   MUTAGEN      47     50       VGAG->L: Complete loss of infectivity.
+FT   MUTAGEN      51     55       AFGLG->KL: Complete loss of infectivity.
+FT   MUTAGEN      56     60       FTPPH->KL: Complete loss of infectivity.
+FT   MUTAGEN      61     65       GGLLG->KL: Complete loss of infectivity.
+FT   MUTAGEN      66     70       WSPQA->KL: Complete loss of infectivity.
+FT   MUTAGEN      71     75       QGILQ->KL: Complete loss of infectivity.
+FT   MUTAGEN      76     80       TLPAN->KL: No effect on infectivity.
+FT   MUTAGEN      81     85       PPPAS->KL: No effect on infectivity.
+FT   MUTAGEN      86     90       TNRQS->KL: No effect on infectivity.
+FT   MUTAGEN      91     95       GRQPT->KL: No effect on infectivity.
+FT   MUTAGEN      96    100       PLSPP->KL: No effect on infectivity.
+FT   MUTAGEN     101    105       LRNTH->KL: No effect on infectivity.
+FT   MUTAGEN     106    110       PQAMQ->KL: No effect on infectivity.
+SQ   SEQUENCE   389 AA;  42766 MW;  6DC9E682DA694F63 CRC64;
+     MGQNLSTSNP LGFFPDHQLD PAFRANTANP DWDFNPNKDT WPDANKVGAG AFGLGFTPPH
+     GGLLGWSPQA QGILQTLPAN PPPASTNRQS GRQPTPLSPP LRNTHPQAMQ WNSTTFHQTL
+     QDPRVRGLYF PAGGSSSGTV NPVLTTASPL SSIFSRIGDP ALNMENITSG FLGPLLVLQA
+     GFFLLTRILT IPQSLDSWWT SLNFLGGTTV CLGQNSQSPT SNHSPTSCPP TCPGYRWMCL
+     RRFIIFLFIL LLCLIFLLVL LDYQGMLPVC PLIPGSSTTS TGPCRTCMTT AQGTSMYPSC
+     CCTKPSDGNC TCIPIPSSWA FGKFLWEWAS ARFSWLSLLV PFVQWFVGLS PTVWLSVIWM
+     MWYWGPSLYS ILSPFLPLLP IFFCLWVYI
+//

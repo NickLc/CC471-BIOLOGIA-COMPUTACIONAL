@@ -1,0 +1,10 @@
+source
+CDS
+misc_feature
+gene
+ncRNA
+tRNA
+mobile_element
+STS
+repeat_region
+Taxon

@@ -1,0 +1,113 @@
+LOCUS       X_HBVA4                  154 aa            linear   VRL 18-SEP-2013
+DEFINITION  RecName: Full=Protein X; AltName: Full=HBx; AltName: Full=Peptide
+            X; AltName: Full=pX.
+ACCESSION   P17102
+VERSION     P17102.1  GI:139890
+DBSOURCE    UniProtKB: locus X_HBVA4, accession P17102;
+            class: standard.
+            created: Aug 1, 1990.
+            sequence updated: Aug 1, 1990.
+            annotation updated: Sep 18, 2013.
+            xrefs: X51970.1, CAA36231.1, QQVLKS
+            xrefs (non-sequence databases): GO:0033650, GO:0042025, GO:0039652,
+            GO:0006915, GO:0039592, GO:0006351, GO:0019079, InterPro:IPR000236,
+            Pfam:PF00739
+KEYWORDS    Activation of host NF-kappa-B by virus; Activator; Apoptosis;
+            Complete proteome; Host cytoplasm; Host G2/M cell cycle arrest by
+            virus; Host mitochondrion; Host nucleus; Host-virus interaction;
+            Modulation of host cell cycle by virus; Transcription;
+            Transcription regulation.
+SOURCE      Hepatitis B virus adw/991
+  ORGANISM  Hepatitis B virus adw/991
+            Viruses; Retro-transcribing viruses; Hepadnaviridae;
+            Orthohepadnavirus.
+REFERENCE   1  (residues 1 to 154)
+  AUTHORS   Koechel,H.G., Schueler,A., Lottmann,S. and Thomssen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-FEB-1990)
+  REMARK    NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+REFERENCE   2  (residues 1 to 154)
+  AUTHORS   Bouchard,M.J. and Schneider,R.J.
+  TITLE     The enigmatic X gene of hepatitis B virus
+  JOURNAL   J. Virol. 78 (23), 12725-12734 (2004)
+   PUBMED   15542625
+  REMARK    REVIEW.
+REFERENCE   3  (residues 1 to 154)
+  AUTHORS   Tang,H., Oishi,N., Kaneko,S. and Murakami,S.
+  TITLE     Molecular functions and biological roles of hepatitis B virus x
+            protein
+  JOURNAL   Cancer Sci. 97 (10), 977-983 (2006)
+   PUBMED   16984372
+  REMARK    REVIEW.
+COMMENT     On Jul 5, 2005 this sequence version replaced gi:73622.
+            [FUNCTION] Multifunctional protein that may modulate protein
+            degradation pathways, apoptosis, transcription, signal
+            transduction, cell cycle progress, and genetic stability by
+            directly or indirectly interacting with hosts factors. Does not
+            seem to be essential for HBV infection. May be directly involved in
+            development of cirrhosis and liver cancer (hepatocellular
+            carcinoma). Most of cytosolic activities involve modulation of
+            cytosolic calcium. The effect on apoptosis is controversial
+            depending on the cell types in which the studies have been
+            conducted. By binding to human DDB1, may affect cell viability and
+            stimulate genome replication. May induce apoptosis by localizing in
+            mitochondria and causing loss of mitochondrial membrane potential.
+            May also modulate apoptosis by binding human CFLAR, a key regulator
+            of the death-inducing signaling complex (DISC). Moderately
+            stimulates transcription of many different viral and cellular
+            transcription elements. Promoters and enhancers stimulated by HBx
+            contain DNA binding sites for NF-kappa-B, AP-1, AP-2, c-EBP,
+            ATF/CREB, or the calcium-activated factor NF-AT. May bind bZIP
+            transcription factors like CREB1 (By similarity).
+            [SUBUNIT] May form homodimer. May interact with human CEBPA, CFLAR,
+            CREB1, DDB1, E4F1, HBXIP, HSPD1/HSP60, NFKBIA, POLR2E and SMAD4 (By
+            similarity).
+            [SUBCELLULAR LOCATION] Host cytoplasm. Host nucleus. Host
+            mitochondrion. Note=Mainly cytoplasmic as only a fraction is
+            detected in the nucleus. In cytoplasm, a minor fraction associates
+            with mitochondria or proteasomes (By similarity).
+            [SIMILARITY] Belongs to the orthohepadnavirus protein X family.
+            [CAUTION] Transcriptional activities should be taken with a grain
+            of salt. As of 2007, all studies demonstrating in vivo interaction
+            between protein X and transcriptional components were performed
+            with significant overexpression of both proteins and in the absence
+            of viral infection.
+            [WEB RESOURCE] Name=HepSEQ; Note=Hepatitis virus B database;
+            URL='http://www.hpa-bioinformatics.org.uk/HepSEQ-
+            Research/Public/Web_Front/main.php'.
+FEATURES             Location/Qualifiers
+     source          1..154
+                     /organism="Hepatitis B virus adw/991"
+                     /host="Homo sapiens (Human)"
+                     /host="Pan troglodytes (Chimpanzee)"
+                     /db_xref="taxon:10410"
+     gene            1..154
+                     /gene="X"
+     Protein         1..154
+                     /gene="X"
+                     /product="Protein X"
+                     /note="HBx; Peptide X; pX"
+                     /UniProtKB_evidence="Inferred from homology"
+     Region          1..154
+                     /gene="X"
+                     /region_name="Mature chain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Protein X. /FTId=PRO_0000222363."
+     Region          1..142
+                     /gene="X"
+                     /region_name="X"
+                     /note="Trans-activation protein X; pfam00739"
+                     /db_xref="CDD:109783"
+     Region          68..117
+                     /gene="X"
+                     /region_name="Region of interest in the sequence"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial targeting sequence (By similarity)."
+ORIGIN      
+        1 matrlccqld psrdvlclrp vgaesrgrpl sgplgtlssp spsavpadhg ahlslrglpv
+       61 cafssagpca lrftsarcme ttvnahqilp kvlhkrtlgl pamsttdlea yfkdcvfkdw
+      121 eelgeeirlk vfvlggcrhk lvcapapcnf ftsa
+//
+

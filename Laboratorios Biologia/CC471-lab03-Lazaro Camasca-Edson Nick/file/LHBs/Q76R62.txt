@@ -1,0 +1,161 @@
+ID   HBSAG_HBVCJ             Reviewed;         400 AA.
+AC   Q76R62;
+DT   15-DEC-2009, integrated into UniProtKB/Swiss-Prot.
+DT   15-DEC-2009, sequence version 2.
+DT   16-OCT-2013, entry version 49.
+DE   RecName: Full=Large envelope protein;
+DE   AltName: Full=L glycoprotein;
+DE   AltName: Full=L-HBsAg;
+DE            Short=LHB;
+DE   AltName: Full=Large S protein;
+DE   AltName: Full=Large surface protein;
+DE   AltName: Full=Major surface antigen;
+GN   Name=S;
+OS   Hepatitis B virus genotype C subtype ayr (isolate
+OS   Human/Japan/Okamoto/-) (HBV-C).
+OC   Viruses; Retro-transcribing viruses; Hepadnaviridae;
+OC   Orthohepadnavirus.
+OX   NCBI_TaxID=928302;
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+OH   NCBI_TaxID=9598; Pan troglodytes (Chimpanzee).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3783127;
+RA   Okamoto H., Imai M., Shimozaki M., Hoshi Y., Iizuka H., Gotanda T.,
+RA   Tsuda F., Miyakawa Y., Mayumi M.;
+RT   "Nucleotide sequence of a cloned hepatitis B virus genome, subtype
+RT   ayr: comparison with genomes of the other three subtypes.";
+RL   J. Gen. Virol. 67:2305-2314(1986).
+RN   [2]
+RP   FUNCTION.
+RX   PubMed=19846513; DOI=10.1128/JVI.01207-09;
+RA   Macovei A., Radulescu C., Lazar C., Petrescu S., Durantel D.,
+RA   Dwek R.A., Zitzmann N., Nichita N.B.;
+RT   "Hepatitis B virus requires intact caveolin-1 function for productive
+RT   infection in HepaRG cells.";
+RL   J. Virol. 84:243-253(2010).
+CC   -!- FUNCTION: The large envelope protein exists in two topological
+CC       conformations, one which is termed 'external' or Le-HBsAg and the
+CC       other 'internal' or Li-HBsAg. In its external conformation the
+CC       protein attaches the virus to cell receptors and thereby
+CC       initiating infection. This interaction determines the species
+CC       specificity and liver tropism. This attachment induces virion
+CC       internalization predominantly through caveolin-mediated
+CC       endocytosis. The large envelope protein also assumes fusion
+CC       between virion membrane and endosomal membrane (Probable). In its
+CC       internal conformation the protein plays a role in virion
+CC       morphogenesis and mediates the contact with the nucleocapsid like
+CC       a matrix protein (By similarity).
+CC   -!- FUNCTION: The middle envelope protein plays an important role in
+CC       the budding of the virion. It is involved in the induction of
+CC       budding in a nucleocapsid independent way. In this process the
+CC       majority of envelope proteins bud to form subviral lipoprotein
+CC       particles of 22 nm of diameter that do not contain a nucleocapsid
+CC       (By similarity).
+CC   -!- SUBUNIT: Li-HBsAg interacts with capsid protein and with HDV Large
+CC       delta antigen. Isoform M associates with host chaperone CANX
+CC       through its pre-S2 N glycan. This association may be essential for
+CC       M proper secretion (By similarity).
+CC   -!- SUBCELLULAR LOCATION: Virion membrane (By similarity).
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing, Alternative initiation; Named isoforms=3;
+CC       Name=L; Synonyms=Large envelope protein, LHB, L-HBsAg;
+CC         IsoId=Q76R62-1; Sequence=Displayed;
+CC       Name=M; Synonyms=Middle envelope protein, MHB, M-HBsAg;
+CC         IsoId=Q76R62-2; Sequence=VSP_038497;
+CC       Name=S; Synonyms=Small envelope protein, SHB, S-HBsAg;
+CC         IsoId=Q76R62-3; Sequence=VSP_038496;
+CC   -!- DOMAIN: The large envelope protein is synthesized with the pre-S
+CC       region at the cytosolic side of the endoplasmic reticulum and,
+CC       hence will be within the virion after budding. Therefore the pre-S
+CC       region is not N-glycosylated. Later a post-translational
+CC       translocation of N-terminal pre-S and TM1 domains occur in about
+CC       50% of proteins at the virion surface. These molecules change
+CC       their topology by an unknown mechanism, resulting in exposure of
+CC       pre-S region at virion surface. For isoform M in contrast, the
+CC       pre-S2 region is translocated cotranslationally to the endoplasmic
+CC       reticulum lumen and is N-glycosylated.
+CC   -!- PTM: Isoform M is N-terminally acetylated at a ratio of 90%, and
+CC       N-glycosylated at the pre-S2 region (By similarity).
+CC   -!- PTM: Myristoylated (By similarity).
+CC   -!- BIOTECHNOLOGY: Systematic vaccination of individuals at risk of
+CC       exposure to the virus has been the main method of controlling the
+CC       morbidity and mortality associated with hepatitis B. The first
+CC       hepatitis B vaccine was manufactured by the purification and
+CC       inactivation of HBsAg obtained from the plasma of chronic
+CC       hepatitis B virus carriers. The vaccine is now produced by
+CC       recombinant DNA techniques and expression of the S isoform in
+CC       yeast cells. The pre-S region do not seem to induce strong enough
+CC       antigenic response.
+CC   -!- SIMILARITY: Belongs to the orthohepadnavirus major surface antigen
+CC       family.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA28287.1; Type=Erroneous initiation;
+CC   -!- WEB RESOURCE: Name=HepSEQ; Note=Hepatitis virus B database;
+CC       URL="http://www.hpa-bioinformatics.org.uk/HepSEQ-Research/Public/Web_Front/main.php";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X04615; CAA28287.1; ALT_INIT; Genomic_DNA.
+DR   RefSeq; NP_647605.1; NC_003977.1.
+DR   ProteinModelPortal; Q76R62; -.
+DR   GeneID; 944569; -.
+DR   GO; GO:0016021; C:integral to membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0055036; C:virion membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0019048; P:modulation by virus of host morphology or physiology; IEA:UniProtKB-KW.
+DR   GO; GO:0019062; P:viral attachment to host cell; IEA:UniProtKB-KW.
+DR   GO; GO:0075513; P:viral entry into host cell via caveolin-mediated endocytosis; IEA:UniProtKB-KW.
+DR   GO; GO:0039654; P:viral entry into host cell via endocytosis followed by membrane fusion with the endosome membrane; IEA:UniProtKB-KW.
+DR   InterPro; IPR000349; Hepvir_surfAg.
+DR   Pfam; PF00695; vMSA; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Alternative initiation; Alternative splicing;
+KW   Caveolin-mediated endocytosis of virus by host; Complete proteome;
+KW   Fusion of virus membrane with host endosomal membrane;
+KW   Fusion of virus membrane with host membrane; Glycoprotein;
+KW   Host-virus interaction; Lipoprotein; Membrane; Myristate;
+KW   Reference proteome; Transmembrane; Transmembrane helix;
+KW   Viral attachment to host cell; Viral penetration into host cytoplasm;
+KW   Virion; Virus endocytosis by host; Virus entry into host cell.
+FT   INIT_MET      1      1       Removed; by host (By similarity).
+FT   CHAIN         2    400       Large envelope protein.
+FT                                /FTId=PRO_0000390503.
+FT   TOPO_DOM      2    253       Intravirion; in internal conformation
+FT                                (Potential).
+FT   TOPO_DOM      2    181       Virion surface; in external conformation
+FT                                (Potential).
+FT   TRANSMEM    182    202       Helical; Name=TM1; Note=In external
+FT                                conformation; (Potential).
+FT   TOPO_DOM    203    253       Intravirion; in external conformation
+FT                                (Potential).
+FT   TRANSMEM    254    274       Helical; Name=TM2; (Potential).
+FT   TOPO_DOM    275    348       Virion surface (Potential).
+FT   TRANSMEM    349    369       Helical; (Potential).
+FT   TOPO_DOM    370    375       Intravirion (Potential).
+FT   TRANSMEM    376    398       Helical; Name=TM3; (Potential).
+FT   TOPO_DOM    399    400       Virion surface (Potential).
+FT   REGION        2    174       Pre-S.
+FT   REGION        2    119       Pre-S1.
+FT   REGION      120    174       Pre-S2.
+FT   MOD_RES     120    120       N-acetylmethionine; by host; in isoform M
+FT                                (By similarity).
+FT   LIPID         2      2       N-myristoyl glycine; by host (By
+FT                                similarity).
+FT   CARBOHYD    123    123       N-linked (GlcNAc...); by host; in isoform
+FT                                M (By similarity).
+FT   CARBOHYD    320    320       N-linked (GlcNAc...); by host (By
+FT                                similarity).
+FT   VAR_SEQ       1    174       Missing (in isoform S).
+FT                                /FTId=VSP_038496.
+FT   VAR_SEQ       1    119       Missing (in isoform M).
+FT                                /FTId=VSP_038497.
+SQ   SEQUENCE   400 AA;  43669 MW;  DBFBAA948114802B CRC64;
+     MGGWSSKPRQ GMGTNLSVPN PLGFFPDHQL DPAFGANSNN PDWDFNPNKD HWPEANQVGA
+     GAFGPGFTPP HGGLLGWSPQ AQGILTTLPA APPPASTNRQ SGRQPTPISP PLRDSHPQAM
+     QWNSTTFHQA LLDPRVRGLY FPAGGSSSGT VNPVPTTASP ISSIFSRTGD PAPNMESTTS
+     GFLGPLLVLQ AGFFLLTRIL TIPQSLDSWW TSLNFLGGAP TCPGQNSQSP TSNHSPTSCP
+     PTCPGYRWMC LRRFIIFLFI LLLCLIFLLV LLDYQGMLPV CPLLPGTSTT STGPCRTCTI
+     PAQGTSMFPS CCCTKPSDGN CTCIPIPSSW AFARFLWEWA SVRFSWLSLL VPFVQWFVGL
+     SPTVWLSAIW MMWYWGPSLY NILSPFLPLL PIFFCLWVYI
+//

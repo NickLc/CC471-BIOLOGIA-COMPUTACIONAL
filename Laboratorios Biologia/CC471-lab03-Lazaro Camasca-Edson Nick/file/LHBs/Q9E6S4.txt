@@ -1,0 +1,194 @@
+ID   HBSAG_HBVC0             Reviewed;         400 AA.
+AC   Q9E6S4; Q9E6S3; Q9E6S9;
+DT   26-FEB-2008, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2001, sequence version 1.
+DT   16-OCT-2013, entry version 51.
+DE   RecName: Full=Large envelope protein;
+DE   AltName: Full=L glycoprotein;
+DE   AltName: Full=L-HBsAg;
+DE            Short=LHB;
+DE   AltName: Full=Large S protein;
+DE   AltName: Full=Large surface protein;
+DE   AltName: Full=Major surface antigen;
+GN   Name=S;
+OS   Hepatitis B virus genotype C (isolate Vietnam/3270/2000) (HBV-C).
+OC   Viruses; Retro-transcribing viruses; Hepadnaviridae;
+OC   Orthohepadnavirus.
+OX   NCBI_TaxID=489472;
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+OH   NCBI_TaxID=9598; Pan troglodytes (Chimpanzee).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=10950984;
+RA   Hannoun C., Norder H., Lindh M.;
+RT   "An aberrant genotype revealed in recombinant hepatitis B virus
+RT   strains from Vietnam.";
+RL   J. Gen. Virol. 81:2267-2272(2000).
+RN   [2]
+RP   REVIEW.
+RX   PubMed=8957666;
+RA   Bruss V., Gerhardt E., Vieluf K., Wunderlich G.;
+RT   "Functions of the large hepatitis B virus surface protein in viral
+RT   particle morphogenesis.";
+RL   Intervirology 39:23-31(1996).
+RN   [3]
+RP   REVIEW.
+RX   PubMed=9498079;
+RA   Block T.M., Lu X., Mehta A., Park J., Blumberg B.S., Dwek R.;
+RT   "Role of glycan processing in hepatitis B virus envelope protein
+RT   trafficking.";
+RL   Adv. Exp. Med. Biol. 435:207-216(1998).
+RN   [4]
+RP   REVIEW.
+RX   PubMed=15567498; DOI=10.1016/j.virusres.2004.08.016;
+RA   Bruss V.;
+RT   "Envelopment of the hepatitis B virus nucleocapsid.";
+RL   Virus Res. 106:199-209(2004).
+RN   [5]
+RP   REVIEW.
+RX   PubMed=16863502; DOI=10.1111/j.1349-7006.2006.00235.x;
+RA   Wang H.C., Huang W., Lai M.D., Su I.J.;
+RT   "Hepatitis B virus pre-S mutants, endoplasmic reticulum stress and
+RT   hepatocarcinogenesis.";
+RL   Cancer Sci. 97:683-688(2006).
+CC   -!- FUNCTION: The large envelope protein exists in two topological
+CC       conformations, one which is termed 'external' or Le-HBsAg and the
+CC       other 'internal' or Li-HBsAg. In its external conformation the
+CC       protein attaches the virus to cell receptors and thereby
+CC       initiating infection. This interaction determines the species
+CC       specificity and liver tropism. This attachment induces virion
+CC       internalization predominantly through caveolin-mediated
+CC       endocytosis. The large envelope protein also assumes fusion
+CC       between virion membrane and endosomal membrane (Probable). In its
+CC       internal conformation the protein plays a role in virion
+CC       morphogenesis and mediates the contact with the nucleocapsid like
+CC       a matrix protein (By similarity).
+CC   -!- FUNCTION: The middle envelope protein plays an important role in
+CC       the budding of the virion. It is involved in the induction of
+CC       budding in a nucleocapsid independent way. In this process the
+CC       majority of envelope proteins bud to form subviral lipoprotein
+CC       particles of 22 nm of diameter that do not contain a nucleocapsid
+CC       (By similarity).
+CC   -!- SUBUNIT: Li-HBsAg interacts with capsid protein and with HDV Large
+CC       delta antigen. Isoform M associates with host chaperone CANX
+CC       through its pre-S2 N glycan. This association may be essential for
+CC       M proper secretion (By similarity).
+CC   -!- SUBCELLULAR LOCATION: Virion membrane (By similarity).
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing, Alternative initiation; Named isoforms=3;
+CC       Name=L; Synonyms=Large envelope protein, LHB, L-HBsAg;
+CC         IsoId=Q9E6S4-1; Sequence=Displayed;
+CC       Name=M; Synonyms=Middle envelope protein, MHB, M-HBsAg;
+CC         IsoId=Q9E6S4-2; Sequence=VSP_031383;
+CC       Name=S; Synonyms=Small envelope protein, SHB, S-HBsAg;
+CC         IsoId=Q9E6S4-3; Sequence=VSP_031382;
+CC   -!- DOMAIN: The large envelope protein is synthesized with the pre-S
+CC       region at the cytosolic side of the endoplasmic reticulum and,
+CC       hence will be within the virion after budding. Therefore the pre-S
+CC       region is not N-glycosylated. Later a post-translational
+CC       translocation of N-terminal pre-S and TM1 domains occur in about
+CC       50% of proteins at the virion surface. These molecules change
+CC       their topology by an unknown mechanism, resulting in exposure of
+CC       pre-S region at virion surface. For isoform M in contrast, the
+CC       pre-S2 region is translocated cotranslationally to the endoplasmic
+CC       reticulum lumen and is N-glycosylated.
+CC   -!- PTM: Isoform M is N-terminally acetylated at a ratio of 90%, and
+CC       N-glycosylated at the pre-S2 region (By similarity).
+CC   -!- PTM: Myristoylated (By similarity).
+CC   -!- BIOTECHNOLOGY: Systematic vaccination of individuals at risk of
+CC       exposure to the virus has been the main method of controlling the
+CC       morbidity and mortality associated with hepatitis B. The first
+CC       hepatitis B vaccine was manufactured by the purification and
+CC       inactivation of HBsAg obtained from the plasma of chronic
+CC       hepatitis B virus carriers. The vaccine is now produced by
+CC       recombinant DNA techniques and expression of the S isoform in
+CC       yeast cells. The pre-S region do not seem to induce strong enough
+CC       antigenic response.
+CC   -!- SIMILARITY: Belongs to the orthohepadnavirus major surface antigen
+CC       family.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAG17597.1; Type=Erroneous initiation;
+CC       Sequence=AAG17599.1; Type=Erroneous initiation;
+CC   -!- WEB RESOURCE: Name=HepSEQ; Note=Hepatitis virus B database;
+CC       URL="http://www.hpa-bioinformatics.org.uk/HepSEQ-Research/Public/Web_Front/main.php";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF241410; AAG17596.1; -; Genomic_DNA.
+DR   EMBL; AF241410; AAG17597.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; AF241410; AAG17599.1; ALT_INIT; Genomic_DNA.
+DR   PIR; JQ2054; JQ2054.
+DR   PIR; JQ2094; JQ2094.
+DR   PIR; JQ2095; JQ2095.
+DR   PIR; JQ2096; JQ2096.
+DR   PIR; JQ2097; JQ2097.
+DR   PIR; JQ2098; JQ2098.
+DR   PIR; JQ2099; JQ2099.
+DR   PIR; JQ2100; JQ2100.
+DR   PIR; JQ2101; JQ2101.
+DR   PIR; JQ2102; JQ2102.
+DR   PIR; JQ2106; JQ2106.
+DR   PIR; JQ2108; JQ2108.
+DR   PIR; JQ2109; JQ2109.
+DR   PIR; JQ2111; JQ2111.
+DR   PIR; JQ2112; JQ2112.
+DR   PIR; JQ2116; JQ2116.
+DR   GO; GO:0016021; C:integral to membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0055036; C:virion membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0019048; P:modulation by virus of host morphology or physiology; IEA:UniProtKB-KW.
+DR   GO; GO:0019062; P:viral attachment to host cell; IEA:UniProtKB-KW.
+DR   GO; GO:0075513; P:viral entry into host cell via caveolin-mediated endocytosis; IEA:UniProtKB-KW.
+DR   GO; GO:0039654; P:viral entry into host cell via endocytosis followed by membrane fusion with the endosome membrane; IEA:UniProtKB-KW.
+DR   InterPro; IPR000349; Hepvir_surfAg.
+DR   Pfam; PF00695; vMSA; 1.
+PE   1: Evidence at protein level;
+KW   Acetylation; Alternative initiation; Alternative splicing;
+KW   Caveolin-mediated endocytosis of virus by host; Complete proteome;
+KW   Fusion of virus membrane with host endosomal membrane;
+KW   Fusion of virus membrane with host membrane; Glycoprotein;
+KW   Host-virus interaction; Lipoprotein; Membrane; Myristate;
+KW   Transmembrane; Transmembrane helix; Viral attachment to host cell;
+KW   Viral penetration into host cytoplasm; Virion;
+KW   Virus endocytosis by host; Virus entry into host cell.
+FT   INIT_MET      1      1       Removed; by host (By similarity).
+FT   CHAIN         2    400       Large envelope protein.
+FT                                /FTId=PRO_0000319080.
+FT   TOPO_DOM      2    253       Intravirion; in internal conformation
+FT                                (Potential).
+FT   TOPO_DOM      2    181       Virion surface; in external conformation
+FT                                (Potential).
+FT   TRANSMEM    182    202       Helical; Note=In external conformation;
+FT                                (Potential).
+FT   TOPO_DOM    203    253       Intravirion; in external conformation
+FT                                (Potential).
+FT   TRANSMEM    254    274       Helical; (Potential).
+FT   TOPO_DOM    275    348       Virion surface (Potential).
+FT   TRANSMEM    349    369       Helical; (Potential).
+FT   TOPO_DOM    370    375       Intravirion (Potential).
+FT   TRANSMEM    376    398       Helical; (Potential).
+FT   TOPO_DOM    399    400       Virion surface (Potential).
+FT   REGION        2    174       Pre-S.
+FT   REGION        2    119       Pre-S1.
+FT   REGION      120    174       Pre-S2.
+FT   MOD_RES     120    120       N-acetylmethionine; by host; in isoform M
+FT                                (By similarity).
+FT   LIPID         2      2       N-myristoyl glycine; by host (By
+FT                                similarity).
+FT   CARBOHYD    123    123       N-linked (GlcNAc...); by host; in isoform
+FT                                M (By similarity).
+FT   CARBOHYD    320    320       N-linked (GlcNAc...); by host (By
+FT                                similarity).
+FT   VAR_SEQ       1    174       Missing (in isoform S).
+FT                                /FTId=VSP_031382.
+FT   VAR_SEQ       1    119       Missing (in isoform M).
+FT                                /FTId=VSP_031383.
+SQ   SEQUENCE   400 AA;  43645 MW;  BA250A3561EB2241 CRC64;
+     MGGYSSKPRK GMGTNLSVPN PLGFLPDHQL DPAFGANSNN PDWDFNPNKD PWPEAWQVGA
+     GAFGPGFTPP HGSLLGWSPQ AQGILTTVPA TPPPASTNRQ SGRQPTPISP PLRDSHPQAM
+     QWNSTTFHQA LLDPRVRGLY FPAGGSSSGT ANPVPTTASP ISSIFSRTGD PVPKMENTTS
+     GFLGPLLVLQ AGFFLLTRIL TIPQSLDSWW TSLNFLGGAP ACPGQNSQSP TSNHSPTSCP
+     PICPGYRWMC LRRFIIFLFI LLLCLIFLLV LLDYQGMLPV CPLIPGTSTT STGPCKTCTT
+     PAQGTSMFPS CCCTKPSDGN CTCIPIPSSW AFAKFLWEWA SVRFSWLSLL APFVQWFVGL
+     SPTVWLSVIW MMWYWGPSLY NILSPFLPLL PIFFCLWVYI
+//
