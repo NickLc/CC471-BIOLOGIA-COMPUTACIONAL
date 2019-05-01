@@ -1,0 +1,14 @@
+Pregunta 2
+Nombre: Edson Lazaro Camasca
+Codigo: 20160468Id: AAM65232.1
+Longitud: 424
+Id: NP_180350.1
+Longitud: 424
+Id: XP_002880966.1
+Longitud: 406
+Id: XP_006295904.1
+Longitud: 416
+Id: XP_010473180.1
+Longitud: 414
+Id: XP_018484463.1
+Longitud: 424

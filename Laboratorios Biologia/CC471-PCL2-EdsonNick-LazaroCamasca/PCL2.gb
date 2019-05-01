@@ -1,0 +1,968 @@
+LOCUS       AAM65232                 424 aa            linear   PLN 27-JAN-2006
+DEFINITION  putative chorismate mutase/prephenate dehydratase [Arabidopsis
+            thaliana].
+ACCESSION   AAM65232
+VERSION     AAM65232.1
+DBSOURCE    accession AY087695.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (residues 1 to 424)
+  AUTHORS   Haas,B.J., Volfovsky,N., Town,C.D., Troukhan,M., Alexandrov,N.,
+            Feldmann,K.A., Flavell,R.B., White,O. and Salzberg,S.L.
+  TITLE     Full-length messenger RNA sequences greatly improve genome
+            annotation
+  JOURNAL   Genome Biol. 3 (6), RESEARCH0029 (2002)
+   PUBMED   12093376
+REFERENCE   2  (residues 1 to 424)
+  AUTHORS   Alexandrov,N.N., Troukhan,M.E., Brover,V.V., Tatarinova,T.,
+            Flavell,R.B. and Feldmann,K.A.
+  TITLE     Features of Arabidopsis genes and genome discovered using
+            full-length cDNAs
+  JOURNAL   Plant Mol. Biol. 60 (1), 69-85 (2006)
+   PUBMED   16463100
+REFERENCE   3  (residues 1 to 424)
+  AUTHORS   Brover,V., Troukhan,M., Alexandrov,N., Lu,Y.-P., Flavell,R. and
+            Feldmann,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2002) Ceres, Inc, 3007 Malibu Canyon Road,
+            Malibu, CA 90265, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..424
+                     /organism="Arabidopsis thaliana"
+                     /db_xref="taxon:3702"
+                     /clone="37739"
+     Protein         1..424
+                     /product="putative chorismate mutase/prephenate
+                     dehydratase"
+     Region          17..408
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..424
+                     /coded_by="AY087695.1:41..1315"
+ORIGIN      
+        1 mrtllpshtp atvttaarrr hvihcagkrs dsfsinssss dwqsscails skvnsqeqse
+       61 slssnsngss syhvsavngh nngagvsdln lvpfnnnqsi qskkplsisd lspapmhgsn
+      121 lrvayqgvpg ayseaaagka ypncqaipcd qfevafqave lwiadravlp venslggsih
+      181 rnydlllrhr lhivgevqlp vhhclmalpg vrkefltrvi shpqglaqce htltklglnv
+      241 areavddtag aaefiaanni rdtaaiasar aaeiygleil edgiqddasn vtrfvmlare
+      301 piiprtdrpf ktsivfahek gtcvlfkvls afafrnislt kiesrpnhnv pirlvdeanv
+      361 gtakhfeymf yidfeasmae sraqnalsev qeftsflrvl gsypmdmtsw spssssssss
+      421 tfsl
+//
+
+LOCUS       NP_180350                424 aa            linear   PLN 14-FEB-2019
+DEFINITION  prephenate dehydratase 1 [Arabidopsis thaliana].
+ACCESSION   NP_180350
+VERSION     NP_180350.1
+DBLINK      BioProject: PRJNA116
+            BioSample: SAMN03081427
+DBSOURCE    REFSEQ: accession NM_128342.3
+KEYWORDS    RefSeq.
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (residues 1 to 424)
+  AUTHORS   Lin,X., Kaul,S., Rounsley,S., Shea,T.P., Benito,M.I., Town,C.D.,
+            Fujii,C.Y., Mason,T., Bowman,C.L., Barnstead,M., Feldblyum,T.V.,
+            Buell,C.R., Ketchum,K.A., Lee,J., Ronning,C.M., Koo,H.L.,
+            Moffat,K.S., Cronin,L.A., Shen,M., Pai,G., Van Aken,S., Umayam,L.,
+            Tallon,L.J., Gill,J.E., Adams,M.D., Carrera,A.J., Creasy,T.H.,
+            Goodman,H.M., Somerville,C.R., Copenhaver,G.P., Preuss,D.,
+            Nierman,W.C., White,O., Eisen,J.A., Salzberg,S.L., Fraser,C.M. and
+            Venter,J.C.
+  TITLE     Sequence and analysis of chromosome 2 of the plant Arabidopsis
+            thaliana
+  JOURNAL   Nature 402 (6763), 761-768 (1999)
+   PUBMED   10617197
+REFERENCE   2  (residues 1 to 424)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (residues 1 to 424)
+  AUTHORS   Krishnakumar,V., Cheng,C.-Y., Chan,A.P., Schobel,S., Kim,M.,
+            Ferlanti,E.S., Belyaeva,I., Rosen,B.D., Micklem,G., Miller,J.R.,
+            Vaughn,M. and Town,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2016) Plant Genomics, J. Craig Venter Institute,
+            9704 Medical Center Dr, Rockville, MD 20850, USA
+  REMARK    Protein update by submitter
+REFERENCE   4  (residues 1 to 424)
+  AUTHORS   Swarbreck,D., Lamesch,P., Wilks,C. and Huala,E.
+  CONSRTM   TAIR
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2011) Department of Plant Biology, Carnegie
+            Institution, 260 Panama Street, Stanford, CA, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by TAIR and Araport.
+            The reference sequence is identical to AEC08050.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..424
+                     /organism="Arabidopsis thaliana"
+                     /db_xref="taxon:3702"
+                     /chromosome="2"
+                     /ecotype="Columbia"
+     Protein         1..424
+                     /product="prephenate dehydratase 1"
+                     /calculated_mol_wt=45971
+     Region          17..408
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..424
+                     /gene="PD1"
+                     /locus_tag="AT2G27820"
+                     /gene_synonym="ADT3; arogenate dehydratase 3; F15K20.8;
+                     F15K20_8; prephenate dehydratase 1"
+                     /coded_by="NM_128342.3:238..1512"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:DR244290.1,INSD:DR244292.1,INSD:CB255947.1,
+                     INSD:DR244297.1,INSD:DR244298.1,INSD:EH933234.1,
+                     INSD:EH985493.1,INSD:ES123601.1,INSD:ES113666.1,
+                     INSD:ES149695.1,INSD:ES071519.1,INSD:AV527123.1,
+                     INSD:EG510167.1,INSD:DR376049.1,INSD:DR244294.1,
+                     INSD:ES134949.1,INSD:DR244293.1,INSD:EL163287.1,
+                     INSD:EL074186.1,INSD:AV520699.1,INSD:DR244295.1,
+                     INSD:BX836869.1,INSD:ES112999.1,INSD:EH926562.1,
+                     INSD:EL308416.1,INSD:EL302472.1,INSD:DR244291.1,
+                     INSD:BP780600.1,INSD:CB264256.1,INSD:AV533462.1,
+                     INSD:EL260201.1,INSD:AU229083.1,INSD:ES021003.1,
+                     INSD:EL124024.1,INSD:DR244296.1,INSD:AU237965.1"
+                     /inference="similar to RNA sequence,
+                     mRNA:INSD:DQ411464.1,INSD:AY087695.1,INSD:BX818974.1,
+                     INSD:AK229426.1,INSD:BT025989.1"
+                     /note="prephenate dehydratase 1 (PD1); CONTAINS InterPro
+                     DOMAIN/s: Prephenate dehydratase (InterPro:IPR001086),
+                     Prephenate dehydratase, conserved site
+                     (InterPro:IPR018528); BEST Arabidopsis thaliana protein
+                     match is: arogenate dehydratase 6 (TAIR:AT1G08250.1); Has
+                     7147 Blast hits to 7145 proteins in 2247 species: Archae -
+                     179; Bacteria - 4014; Metazoa - 4; Fungi - 119; Plants -
+                     265; Viruses - 0; Other Eukaryotes - 2566 (source: NCBI
+                     BLink)."
+                     /db_xref="Araport:AT2G27820"
+                     /db_xref="GeneID:817329"
+                     /db_xref="TAIR:AT2G27820"
+ORIGIN      
+        1 mrtllpshtp atvttaarrr hvihcagkrs dsfsinssss dwqsscails skvnsqeqse
+       61 slssnsngss syhvsavngh nngagvsdln lvpfnnnqsi qskkplsisd lspapmhgsn
+      121 lrvayqgvpg ayseaaagka ypncqaipcd qfevafqave lwiadravlp venslggsih
+      181 rnydlllrhr lhivgevqlp vhhclialpg vrkefltrvi shpqglaqce htltklglnv
+      241 areavddtag aaefiaanni rdtaaiasar aaeiygleil edgiqddasn vtrfvmlare
+      301 piiprtdrpf ktsivfahek gtcvlfkvls afafrnislt kiesrpnhnv pirlvdeanv
+      361 gtakhfeymf yidfeasmae sraqnalsev qeftsflrvl gsypmdmtsw spssssssss
+      421 tfsl
+//
+
+LOCUS       XP_002880966             406 aa            linear   PLN 11-MAY-2017
+DEFINITION  arogenate dehydratase 3, chloroplastic [Arabidopsis lyrata subsp.
+            lyrata].
+ACCESSION   XP_002880966
+VERSION     XP_002880966.1
+DBLINK      BioProject: PRJNA49545
+DBSOURCE    REFSEQ: accession XM_002880920.2
+KEYWORDS    RefSeq.
+SOURCE      Arabidopsis lyrata subsp. lyrata
+  ORGANISM  Arabidopsis lyrata subsp. lyrata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_003302552.1) annotated using gene prediction method: Gnomon,
+            supported by mRNA and EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Arabidopsis lyrata subsp. lyrata
+                                           Annotation Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..406
+                     /organism="Arabidopsis lyrata subsp. lyrata"
+                     /sub_species="lyrata"
+                     /bio_material="NASC<UK>:donor number MN47"
+                     /db_xref="taxon:81972"
+                     /chromosome="Unknown"
+     Protein         1..406
+                     /product="arogenate dehydratase 3, chloroplastic"
+                     /calculated_mol_wt=44239
+     Region          17..398
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..406
+                     /gene="LOC9317033"
+                     /coded_by="XM_002880920.2:193..1413"
+                     /db_xref="GeneID:9317033"
+ORIGIN      
+        1 mrtllpshtp atvttaarrr hvihcagkrs dsfsigssis dwqsscails skvvsqeqsd
+       61 slisavnnng agisdlnlvp fnnnnksiqs kkplsisdls papmhgsnlr vayqgvpgay
+      121 seaaagkayp ncqaipcdqf evafqavelw iadravlpve nslggsihrn ydlllrhrlh
+      181 ivgevqlpvh hclmalpgvr kefltrvish pqglaqceht ltklglnvar eavddtagaa
+      241 efiaannird taaiasaraa eiygleiled giqddasnvt rfvmlarepi iprtdrpfkt
+      301 sivfahekgt cvlfkvlsaf afrnisltki esrpnhnvpi rlvdeanvgt akhfeymfyi
+      361 dfeasmaqpr aqnalaevqe ftsflrvlgs ypmdmtswsp sstfsl
+//
+
+LOCUS       XP_006295904             416 aa            linear   PLN 02-FEB-2018
+DEFINITION  arogenate dehydratase 3, chloroplastic [Capsella rubella].
+ACCESSION   XP_006295904
+VERSION     XP_006295904.1
+DBLINK      BioProject: PRJNA230563
+DBSOURCE    REFSEQ: accession XM_006295842.2
+KEYWORDS    RefSeq.
+SOURCE      Capsella rubella
+  ORGANISM  Capsella rubella
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons;
+            rosids; malvids; Brassicales; Brassicaceae; Camelineae; Capsella.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006238920.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Capsella rubella Annotation Release
+                                           100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..416
+                     /organism="Capsella rubella"
+                     /cultivar="Monte Gargano"
+                     /bio_material="ABRC:CS22697"
+                     /db_xref="taxon:81985"
+                     /chromosome="Unknown"
+     Protein         1..416
+                     /product="arogenate dehydratase 3, chloroplastic"
+                     /calculated_mol_wt=45557
+     Region          25..401
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..416
+                     /gene="LOC17887916"
+                     /coded_by="XM_006295842.2:205..1455"
+                     /db_xref="GeneID:17887916"
+ORIGIN      
+        1 mrtllpssht patvttprrr ffihsakrsd sftinssisd wqsscailss kvnsqqqses
+       61 lipavngynn saagfsdlnl vpfddnndns kiqskkkpls itdlspapmh gsnlrvayqg
+      121 vpgayseaaa gkaypncqai pcdqfevafq avelwiadra vlpvenslgg sihrnydlll
+      181 rhrlhivgev qfpvhhclla lpgvrkeflt rvishpqgla qcehtltklg lnvareavdd
+      241 tagaaefiaa nnirdtaaia saraaeiygl eiledgiqdd asnvtrfvml arepiiprtd
+      301 rpfktsivfa hekgtcvlfk vlsafafrni sltkiesrpn hnvpirlvde anvgtakhfe
+      361 ymfyidfeas maepraqnal aevqeftsfl rvlgsypmdm tswspsssss sstfsl
+//
+
+LOCUS       XP_010473180             414 aa            linear   PLN 29-NOV-2016
+DEFINITION  PREDICTED: arogenate dehydratase 3, chloroplastic [Camelina
+            sativa].
+ACCESSION   XP_010473180
+VERSION     XP_010473180.1
+DBLINK      BioProject: PRJNA264159
+DBSOURCE    REFSEQ: accession XM_010474878.1
+KEYWORDS    RefSeq; corrected model.
+SOURCE      Camelina sativa (false flax)
+  ORGANISM  Camelina sativa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Camelina.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_025700.1) and transcript sequence (GABL01074322.1) annotated
+            using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Camelina sativa Annotation Release
+                                           101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            assembly gap :: added 114 transcript bases to patch genome assembly
+                            gap
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..414
+                     /organism="Camelina sativa"
+                     /db_xref="taxon:90675"
+                     /chromosome="16"
+     Protein         1..414
+                     /product="arogenate dehydratase 3, chloroplastic"
+                     /calculated_mol_wt=45425
+     Region          27..400
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..414
+                     /gene="LOC104752678"
+                     /coded_by="XM_010474878.1:46..1290"
+                     /note="The sequence of the model RefSeq protein was
+                     modified relative to its source genomic sequence to
+                     represent the inferred CDS: added 69 bases not found in
+                     genome assembly"
+                     /db_xref="GeneID:104752678"
+ORIGIN      
+        1 mrtlipssht patittpqtr rrrrffihss akrsdsfang srssdwqssc ailsskvnsq
+       61 qqseslipav ngynsslnlv pfdnnnnnks iqsktkplsi tdlspapmhg snlrvayqgv
+      121 pgayseaaag kaypncqaip cdqfevafqa velwiadrav lpvenslggs ihrnydlllr
+      181 hrlhivgevq fpvhhcllal pgvrkefltr vishpqglaq cehtltklgl nvareavddt
+      241 agaaefiaan nvrdtaaias araaeiygle iledgiqdda snvtrfvmla repiiprtdr
+      301 pfktsivfah ekgtcvlfkv lsafafrnis ltkiesrpnh nvpirlvdea nvgtakhfey
+      361 mfyidfeasm aearaqnala evqeftsflr vlgsypmdmt swspssssss tfsl
+//
+
+LOCUS       RQL84124                 426 aa            linear   PLN 27-NOV-2018
+DEFINITION  hypothetical protein DY000_00010169 [Brassica cretica].
+ACCESSION   RQL84124
+VERSION     RQL84124.1
+DBLINK      BioProject: PRJNA470925
+            BioSample: SAMN09112366
+DBSOURCE    accession QGKV01240168.1
+KEYWORDS    .
+SOURCE      Brassica cretica
+  ORGANISM  Brassica cretica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (residues 1 to 426)
+  AUTHORS   Kioukis,A., Briers,L., Michalopoulou,V., Pirintsos,S.,
+            Studholme,D.J., Pavlidis,P. and Sarris,P.F.
+  TITLE     Draft Genome Sequence of the wild crop relative Brassica cretica
+            Lam. and NLR Immune Receptors comparison to domesticated Brassicas
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 426)
+  AUTHORS   Studholme,D.J. and Sarris,P.
+  TITLE     Genome sequencing and annotation of Brassica cretica
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 426)
+  AUTHORS   Kioukis,A., Briers,L., Michalopoulou,V., Pirintsos,S.,
+            Studholme,D.J., Pavlidis,P. and Sarris,P.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAY-2018) Biosciences, University of Exeter, Geoffrey
+            Pope Building, Stocker Road, Exeter, Devon EX4 4QD, United Kingdom
+            (Great Britain)
+REFERENCE   4  (residues 1 to 426)
+  AUTHORS   Studholme,D.J. and Sarris,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-AUG-2018) Biosciences, University of Exeter, Geoffrey
+            Pope Building, Stocker Road, Exeter, Devon EX4 4QD, United Kingdom
+            (Great Britain)
+COMMENT     Annotation was added to the contigs on November 2018.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method        :: SOAPdenovo v.
+                                      SOAPdenovo2-bin-LINUX-generic-r240
+            Assembly Name          :: B_cretica_A_v2
+            Expected Final Version :: yes
+            Genome Coverage        :: 55.0x
+            Sequencing Technology  :: Illumina HiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..426
+                     /organism="Brassica cretica"
+                     /isolate="PFS-1207/04"
+                     /db_xref="taxon:69181"
+                     /tissue_type="leaf"
+                     /country="Greece: Crete"
+     Protein         1..426
+                     /product="hypothetical protein"
+     Region          33..409
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..426
+                     /locus_tag="DY000_00010169"
+                     /coded_by="complement(QGKV01240168.1:3516..4796)"
+ORIGIN      
+        1 mrtllpssph npmlrysqtp atvtasrrrf ihcgkrsdss avgssrsdwq sswailsskv
+       61 vsqeqsesll ssvnghsngs aetsslnlvp fdnnslapnq qskkttplsi tdlspapmhg
+      121 snlrvayqgv pgayseaaag kaypncqaip cdqfevafqa velwiadrav lpvenslggs
+      181 ihrnydlllr hrlhivgevq lpvhhcllal pgvrkefltr vishpqglaq cehtltklgl
+      241 nvareavddt agaaefiaan nvrdtaaias araaeiygle iladgiqdda snvtrfvmla
+      301 repiiprtdr pfktsivfah ekgtcvlfkv lsafafrnis ltkiesrpnh nvpirlvdea
+      361 nvgtakhfey mfyvdfeasm aearaqnals evqeftsflr vlgsypmdmt swspsppsss
+      421 sstlsl
+//
+
+LOCUS       CDY30526                 418 aa            linear   PLN 12-JUL-2017
+DEFINITION  BnaA04g16070D [Brassica napus].
+ACCESSION   CDY30526
+VERSION     CDY30526.1
+DBLINK      BioProject: PRJEB5043
+            BioSample: SAMEA3139102
+DBSOURCE    embl accession LK032254.1
+KEYWORDS    .
+SOURCE      Brassica napus (rape)
+  ORGANISM  Brassica napus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1
+  AUTHORS   Chalhoub,B., Denoeud,F., Liu,S., Parkin,I.A., Tang,H., Wang,X.,
+            Chiquet,J., Belcram,H., Tong,C., Samans,B., Correa,M., Da Silva,C.,
+            Just,J., Falentin,C., Koh,C.S., Le Clainche,I., Bernard,M.,
+            Bento,P., Noel,B., Labadie,K., Alberti,A., Charles,M., Arnaud,D.,
+            Guo,H., Daviaud,C., Alamery,S., Jabbari,K., Zhao,M., Edger,P.P.,
+            Chelaifa,H., Tack,D., Lassalle,G., Mestiri,I., Schnel,N., Le
+            Paslier,M.C., Fan,G., Renault,V., Bayer,P.E., Golicz,A.A.,
+            Manoli,S., Lee,T.H., Thi,V.H., Chalabi,S., Hu,Q., Fan,C.,
+            Tollenaere,R., Lu,Y., Battail,C., Shen,J., Sidebottom,C.H.,
+            Wang,X., Canaguier,A., Chauveau,A., Berard,A., Deniot,G., Guan,M.,
+            Liu,Z., Sun,F., Lim,Y.P., Lyons,E., Town,C.D., Bancroft,I.,
+            Wang,X., Meng,J., Ma,J., Pires,J.C., King,G.J., Brunel,D.,
+            Delourme,R., Renard,M., Aury,J.M., Adams,K.L., Batley,J.,
+            Snowdon,R.J., Tost,J., Edwards,D., Zhou,Y., Hua,W., Sharpe,A.G.,
+            Paterson,A.H., Guan,C. and Wincker,P.
+  TITLE     Plant genetics. Early allopolyploid evolution in the post-Neolithic
+            Brassica napus oilseed genome
+  JOURNAL   Science 345 (6199), 950-953 (2014)
+   PUBMED   25146293
+REFERENCE   2  (residues 1 to 418)
+  AUTHORS   Genoscope -,C.E.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUN-2014) Genoscope - Centre National de Sequencage :
+            BP 191 91006 EVRY cedex -FRANCE (E-mail : seqref@genoscope.cns.fr -
+            Web : www.genoscope.cns.fr)
+FEATURES             Location/Qualifiers
+     source          1..418
+                     /organism="Brassica napus"
+                     /db_xref="taxon:3708"
+                     /note="scaffold_468"
+     Protein         1..418
+                     /name="BnaA04g16070D"
+     Region          30..401
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..418
+                     /gene="BnaA04g16070D"
+                     /locus_tag="GSBRNA2T00045246001"
+                     /coded_by="complement(LK032254.1:241712..242968)"
+                     /db_xref="EnsemblGenomes-Gn:GSBRNA2T00045246001"
+                     /db_xref="GOA:A0A078GYI2"
+                     /db_xref="InterPro:IPR001086"
+                     /db_xref="InterPro:IPR002912"
+                     /db_xref="InterPro:IPR018528"
+                     /db_xref="UniProtKB/TrEMBL:A0A078GYI2"
+ORIGIN      
+        1 mrtllpsspm lrysqtpatv tasrrrfihc gkrsdssavg ssrsdwqssw ailsskvvsq
+       61 eqsesllssv nghsngslnl vpfdnnslap nqqskkttpl sitdlspapm hgsnlrvayq
+      121 gvpgayseaa agkaypncqa ipcdqfevaf qavelwiadr avlpvenslg gsihrnydll
+      181 lrhrlhivge vqlpvhhcll alpgvrkefl trvishpqgl aqcehtltkl glnvareavd
+      241 dtagaaefia annvrdtaai asaraaeiyg leiladgiqd dasnvtrfvm larepiiprt
+      301 drpfktsivf ahekgtcvlf kvlsafafrn isltkiesrp nhnvpirlvd eanvgtakhf
+      361 eymfyvdfea smaearaqna lsevqeftsf lrvlgsypmd mtswspspps sssstlsl
+//
+
+LOCUS       VDD13599                 426 aa            linear   PLN 16-NOV-2018
+DEFINITION  unnamed protein product [Brassica oleracea].
+ACCESSION   VDD13599
+VERSION     VDD13599.1
+DBLINK      BioProject: PRJEB26621
+DBSOURCE    embl accession LR031873.1
+KEYWORDS    .
+SOURCE      Brassica oleracea (wild cabbage)
+  ORGANISM  Brassica oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1
+  AUTHORS   William,W.
+  CONSRTM   Genoscope - CEA
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-NOV-2018) Genoscope CEA, 2 rue Gaston Cremieux CP5706
+            91057 Evry cedex, France, France
+FEATURES             Location/Qualifiers
+     source          1..426
+                     /organism="Brassica oleracea"
+                     /db_xref="taxon:3712"
+     Protein         1..426
+                     /name="unnamed protein product"
+     Region          33..409
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..426
+                     /locus_tag="BOLC4T27234H"
+                     /coded_by="LR031873.1:54897576..54898856"
+ORIGIN      
+        1 mrtllpssph npmlrysqtp atvaasrrrf ihcgkrsdss avgssrsdwq sswailsskv
+       61 vsqeqsdsll ssvnghsngs aetsslnlvp fdnnslapnq qskkttplsi tdlspapmhg
+      121 snlrvayqgv pgayseaaag kaypncqaip cdqfevafqa velwiadrav lpvenslggs
+      181 ihrnydlllr hrlhivgevq lpvhhcllal pgvrkefltr vishpqglaq cehtltklgl
+      241 nvareavddt agaaefiaan nvrdtaaias araaeiygle iladgiqdda snvtrfvmla
+      301 repiiprtdr pfktsivfah ekgtcvlfkv lsafafrnis ltkiesrpnh nvpirlvdea
+      361 nvgtakhfey mfyvdfeasm aearaqnals evqeftsflr vlgsypmdmt swspsppsss
+      421 sstlsl
+//
+
+LOCUS       XP_013630868             426 aa            linear   PLN 25-AUG-2015
+DEFINITION  PREDICTED: arogenate dehydratase 3, chloroplastic [Brassica
+            oleracea var. oleracea].
+ACCESSION   XP_013630868
+VERSION     XP_013630868.1
+DBLINK      BioProject: PRJNA293438
+DBSOURCE    REFSEQ: accession XM_013775414.1
+KEYWORDS    RefSeq.
+SOURCE      Brassica oleracea var. oleracea
+  ORGANISM  Brassica oleracea var. oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_013617409.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Brassica oleracea Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..426
+                     /organism="Brassica oleracea var. oleracea"
+                     /variety="oleracea"
+                     /cultivar="TO1000"
+                     /db_xref="taxon:109376"
+                     /chromosome="C4"
+                     /country="Canada"
+                     /lat_lon="52.1333 N 106.6833 W"
+                     /collection_date="31-Aug-2009"
+     Protein         1..426
+                     /product="arogenate dehydratase 3, chloroplastic"
+                     /calculated_mol_wt=46288
+     Region          33..409
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..426
+                     /gene="LOC106336562"
+                     /coded_by="XM_013775414.1:157..1437"
+                     /db_xref="GeneID:106336562"
+ORIGIN      
+        1 mrtllpssph npmlrysqtp atvtasrrrf ihcgkrsdss avgssrsdwq sswailsskv
+       61 vsqeqsdsll ssvnghsngs aetsslnlvp fdnnslapnq qskkttplsi tdlspapmhg
+      121 snlrvayqgv pgayseaaag kaypncqaip cdqfevafqa velwiadrav lpvenslggs
+      181 ihrnydlllr hrlhivgevq lpvhhcllal pgvrkefltr vishpqglaq cehtltklgl
+      241 nvareavddt agaaefiaan nvrdtaaias araaeiygle iladgiqdda snvtrfvmla
+      301 repiiprtdr pfktsivfah ekgtcvlfkv lsafafrnis ltkiesrpnh nvpirlvdea
+      361 nvgtakhfey mfyvdfeasm aearaqnals evqeftsflr vlgsypmdmt swspsppsss
+      421 sstlsl
+//
+
+LOCUS       XP_013743972             421 aa            linear   PLN 04-OCT-2017
+DEFINITION  arogenate dehydratase 3, chloroplastic-like isoform X1 [Brassica
+            napus].
+ACCESSION   XP_013743972
+VERSION     XP_013743972.1
+DBLINK      BioProject: PRJNA293435
+DBSOURCE    REFSEQ: accession XM_013888518.2
+KEYWORDS    RefSeq.
+SOURCE      Brassica napus (rape)
+  ORGANISM  Brassica napus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_027760.2) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Brassica napus Annotation Release
+                                           101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..421
+                     /organism="Brassica napus"
+                     /cultivar="ZS11"
+                     /db_xref="taxon:3708"
+                     /chromosome="A4"
+     Protein         1..421
+                     /product="arogenate dehydratase 3, chloroplastic-like
+                     isoform X1"
+                     /calculated_mol_wt=45826
+     Region          33..404
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..421
+                     /gene="LOC106446738"
+                     /coded_by="XM_013888518.2:151..1416"
+                     /db_xref="GeneID:106446738"
+ORIGIN      
+        1 mrtllpssph npmlrysqtp atvtasrrrf ihcgkrsdss avgssrsdwq sswailsskv
+       61 vsqeqsesll ssvnghsngs lnlvpfdnns lapnqqskkt tplsitdlsp apmhgsnlrv
+      121 ayqgvpgays eaaagkaypn cqaipcdqfe vafqavelwi adravlpven slggsihrny
+      181 dlllrhrlhi vgevqlpvhh cllalpgvrk efltrvishp qglaqcehtl tklglnvare
+      241 avddtagaae fiaannvrdt aaiasaraae iygleiladg iqddasnvtr fvmlarepii
+      301 prtdrpfkts ivfahekgtc vlfkvlsafa frnisltkie srpnhnvpir lvdeanvgta
+      361 khfeymfyvd feasmaeara qnalsevqef tsflrvlgsy pmdmtswsps ppssssstls
+      421 l
+//
+
+LOCUS       XP_013720550             426 aa            linear   PLN 04-OCT-2017
+DEFINITION  arogenate dehydratase 3, chloroplastic-like [Brassica napus].
+ACCESSION   XP_013720550
+VERSION     XP_013720550.1
+DBLINK      BioProject: PRJNA293435
+DBSOURCE    REFSEQ: accession XM_013865096.2
+KEYWORDS    RefSeq.
+SOURCE      Brassica napus (rape)
+  ORGANISM  Brassica napus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_027770.2) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Brassica napus Annotation Release
+                                           101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..426
+                     /organism="Brassica napus"
+                     /cultivar="ZS11"
+                     /db_xref="taxon:3708"
+                     /chromosome="C4"
+     Protein         1..426
+                     /product="arogenate dehydratase 3, chloroplastic-like"
+                     /calculated_mol_wt=46275
+     Region          33..409
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..426
+                     /gene="LOC106424342"
+                     /coded_by="XM_013865096.2:315..1595"
+                     /db_xref="GeneID:106424342"
+ORIGIN      
+        1 mrtllpssph npmlrysqtp atvtasrrrf ihcgkrsdss avgssrsdwq sswailsskv
+       61 vsqeqsdsll ssvnghsngs aetsslnlvp fdnnslapnq qskkttplsi tdlspapmhg
+      121 snlrvayqgv pgayseaaag kaypncqaip cdqfevafqa velwiadrav lpvenslggs
+      181 ihrnydlllr hrlhivgevq lpvhhcllal pgvrkefltr vishpqglaq cehtltklgl
+      241 nvareavddt agaaefiaan nvrdtaatas araaeiygle iladgiqdda snvtrfvmla
+      301 repiiprtdr pfktsivfah ekgtcvlfkv lsafafrnis ltkiesrpnh nvpirlvdea
+      361 nvgtakhfey mfyvdfeasm aearaqnals evqeftsflr vlgsypmdmt swspsppsss
+      421 sstlsl
+//
+
+LOCUS       XP_013720517             426 aa            linear   PLN 04-OCT-2017
+DEFINITION  arogenate dehydratase 3, chloroplastic-like [Brassica napus].
+ACCESSION   XP_013720517
+VERSION     XP_013720517.1
+DBLINK      BioProject: PRJNA293435
+DBSOURCE    REFSEQ: accession XM_013865063.2
+KEYWORDS    RefSeq.
+SOURCE      Brassica napus (rape)
+  ORGANISM  Brassica napus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_027770.2) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Brassica napus Annotation Release
+                                           101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..426
+                     /organism="Brassica napus"
+                     /cultivar="ZS11"
+                     /db_xref="taxon:3708"
+                     /chromosome="C4"
+     Protein         1..426
+                     /product="arogenate dehydratase 3, chloroplastic-like"
+                     /calculated_mol_wt=46312
+     Region          33..409
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..426
+                     /gene="LOC106424312"
+                     /coded_by="XM_013865063.2:161..1441"
+                     /db_xref="GeneID:106424312"
+ORIGIN      
+        1 mrtllpssph npmlrysqtp atvtasrrrf ihcgkrsdss avgssrsdwq sswailsskv
+       61 vsqeqsdsll ssvnghsngs aetsslnlvp fdnnslapnq qskkttplsi tdlspaprhg
+      121 snlrvayqgv pgayseaaag kaypncqaip cdqfevafqa velwiadrav lpvenslggs
+      181 ihrnydlllr hrlhivgevq lpvhhcllal pgvrkefltr vishpqglaq cehtltklgl
+      241 nvareavddt agaaefiaan nvrdtaaias araaeiygle iladgiqdda snvtrfvmla
+      301 repiiprtdr pfktsivfah ekgtcvlfkv lsafafrnis ltkiesrpnh nvpirlvdea
+      361 nvgtakhfey mfyvdfeasm aearaqnals evqeftsflr vlgsypmdmt swspsppsss
+      421 sstlsl
+//
+
+LOCUS       XP_013743973             418 aa            linear   PLN 04-OCT-2017
+DEFINITION  arogenate dehydratase 3, chloroplastic-like isoform X2 [Brassica
+            napus].
+ACCESSION   XP_013743973
+VERSION     XP_013743973.1
+DBLINK      BioProject: PRJNA293435
+DBSOURCE    REFSEQ: accession XM_013888519.2
+KEYWORDS    RefSeq.
+SOURCE      Brassica napus (rape)
+  ORGANISM  Brassica napus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_027760.2) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Brassica napus Annotation Release
+                                           101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..418
+                     /organism="Brassica napus"
+                     /cultivar="ZS11"
+                     /db_xref="taxon:3708"
+                     /chromosome="A4"
+     Protein         1..418
+                     /product="arogenate dehydratase 3, chloroplastic-like
+                     isoform X2"
+                     /calculated_mol_wt=45490
+     Region          17..401
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..418
+                     /gene="LOC106446738"
+                     /coded_by="XM_013888519.2:136..1392"
+                     /db_xref="GeneID:106446738"
+ORIGIN      
+        1 mrtllpsspm lrysqspatv tpsrrrfihc gkrsdssavg ssrsdwqssw ailsskvvsq
+       61 eqsesllssv nghsngslnl vpfdnnslap nqqskkttpl sitdlspapm hgsnlrvayq
+      121 gvpgayseaa agkaypncqa ipcdqfevaf qavelwiadr avlpvenslg gsihrnydll
+      181 lrhrlhivge vqlpvhhcll alpgvrkefl trvishpqgl aqcehtltkl glnvareavd
+      241 dtagaaefia annvrdtaai asaraaeiyg leiladgiqd dasnvtrfvm larepiiprt
+      301 drpfktsivf ahekgtcvlf kvlsafafrn isltkiesrp nhnvpirlvd eanvgtakhf
+      361 eymfyvdfea smaearaqna lsevqeftsf lrvlgsypmd mtswspspps sssstlsl
+//
+
+LOCUS       XP_018484463             424 aa            linear   PLN 04-OCT-2016
+DEFINITION  PREDICTED: arogenate dehydratase 3, chloroplastic [Raphanus
+            sativus].
+ACCESSION   XP_018484463
+VERSION     XP_018484463.1
+DBLINK      BioProject: PRJNA344915
+DBSOURCE    REFSEQ: accession XM_018628961.1
+KEYWORDS    RefSeq.
+SOURCE      Raphanus sativus (radish)
+  ORGANISM  Raphanus sativus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Raphanus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_017353142.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Raphanus sativus Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..424
+                     /organism="Raphanus sativus"
+                     /cultivar="WK10039"
+                     /db_xref="taxon:3726"
+                     /chromosome="Unknown"
+                     /tissue_type="leaf"
+     Protein         1..424
+                     /product="arogenate dehydratase 3, chloroplastic"
+                     /calculated_mol_wt=46045
+     Region          29..408
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..424
+                     /gene="LOC108855202"
+                     /coded_by="XM_018628961.1:175..1449"
+                     /db_xref="GeneID:108855202"
+ORIGIN      
+        1 mrtllpssph npmlrysqtp asrrrfihcg krsdspaigs srsdwqssca ilsskvvsqe
+       61 qseksllssv nghtngsasl nlvpfdddts lappnhknkt atplsitdls papmhgsnlr
+      121 vayqgvpgay seaaagkayp ncqaipcdqf evafqavelw iadravlpve nslggsihrn
+      181 ydlllrhrlh ivgevqlpvh hcllalpgvr kefltrvish pqglaqceht ltklglnvar
+      241 eavddtagaa efiaangvrd taaiasaraa eiygleilad giqddasnvt rfvmlarepi
+      301 iprtdrpfkt sivfahekgt cvlfkvlsaf afrnisltki esrpnhnvpi rlvdeanvgt
+      361 akhfeymfyv dfeasmaear aqnalsevqe ftsflrvlgs ypmdmtswsp sppppsssss
+      421 tfsl
+//
+
+LOCUS       XP_009140827             418 aa            linear   PLN 13-OCT-2016
+DEFINITION  PREDICTED: arogenate dehydratase 3, chloroplastic [Brassica rapa].
+ACCESSION   XP_009140827
+VERSION     XP_009140827.1
+DBLINK      BioProject: PRJNA249065
+DBSOURCE    REFSEQ: accession XM_009142579.2
+KEYWORDS    RefSeq.
+SOURCE      Brassica rapa (field mustard)
+  ORGANISM  Brassica rapa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_024798.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Brassica rapa Annotation Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..418
+                     /organism="Brassica rapa"
+                     /cultivar="Chiifu-401-42"
+                     /db_xref="taxon:3711"
+                     /chromosome="A4"
+     Protein         1..418
+                     /product="arogenate dehydratase 3, chloroplastic"
+                     /calculated_mol_wt=45490
+     Region          29..401
+                     /region_name="PLN02317"
+                     /note="arogenate dehydratase"
+                     /db_xref="CDD:215181"
+     CDS             1..418
+                     /gene="LOC103864806"
+                     /coded_by="XM_009142579.2:162..1418"
+                     /db_xref="GeneID:103864806"
+ORIGIN      
+        1 mrtllpsspm lrysqspatv tpsrrrfihc gnrsdssaig ssrsdwqssw ailsskvvsq
+       61 eqsesllssv nghsngslnl vpfdnnslap nqqskkttpl sitdlspapm hgsnlrvayq
+      121 gvpgayseaa agkaypncqa ipcdqfevaf qavelwiadr avlpvenslg gsihrnydll
+      181 lrhrlhivge vqlpvhhcll alpgvrkefl trvishpqgl aqcehtltkl glnvareavd
+      241 dtagaaefia annvrdtaai asaraaeiyg leiladgiqd dasnvtrfvm larepiiprt
+      301 drpfktsivf ahekgtcvlf kvlsafafrn isltkiesrp nhnvpirlvd eanvgtakhf
+      361 eymfyvdfea smaearaqna lsevqeftsf lrvlgsypmd mtswspspps sssstlsl
+//
+
