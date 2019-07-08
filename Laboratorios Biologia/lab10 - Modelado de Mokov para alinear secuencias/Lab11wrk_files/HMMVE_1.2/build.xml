@@ -1,0 +1,69 @@
+<?xml version="1.0"?> 
+
+<!-- Use the following doctypedecl for DTD aware editing
+<!DOCTYPE project PUBLIC "-//ANT//DTD project//EN" "project.dtd">
+-->
+
+<!-- ===================================================================
+
+		    Ant build file for example program
+
+This is a build file for use with the Ant build tool.  See
+http://jakarta.apache.org/ant/index.html for more info.  This build.xml
+file has been tested with Ant version 1.4.1.
+
+To compile and run this sample, execute the following command:
+
+    % ant
+    
+  Note:
+  This script defines properties named jaxp.lib and jaxp.endorsed that
+  point to the directories containing the necessary jar files. Should
+  you need to, you can modify those properties by executing a command 
+  like this: 
+    % ant -Djaxp.lib=<some_dir>  -Djaxp.endorsed=<some_dir>
+    
+  For more information, see the samples.html and release notes documents
+  that came as part of the download bundle.
+    
+======================================================================== -->
+
+<project name="HMMVE" default="main" basedir=".">
+
+  <property name="debug" value="on"/>
+
+  <!-- Load User Defined Properties -->
+  <property file="build.properties"/>
+  <property name="root.dir" value="."/>
+  <property name="src.dir" value="${root.dir}/src"/>
+  <property name="build.dir" value="${root.dir}/build"/>
+  <property name="jar.dir" value="${root.dir}"/>
+
+  <!-- Set the classpath. Include the RI jar files for versions of the
+       Java platform prior to 1.4. 
+    -->
+  <path id="project-classpath">
+    <pathelement location="."/>
+  </path>
+ 
+  <!-- Compile the program -->
+  <target name="compile">
+    <javac includeantruntime="no" debug="${debug}" srcdir="${src.dir}" destdir="${build.dir}">
+      <classpath refid="project-classpath"/>
+    </javac>
+    <jar jarfile="${jar.dir}/HMMVE_1.2.jar"
+      basedir="${build.dir}"
+	  manifest="${root.dir}/MANIFEST.MF"
+    />
+  </target>
+  
+  <target name="clean">
+    <delete>
+      <fileset dir="${build.dir}"/>
+    </delete>
+    <delete file="${jar.dir}/HMMVE_1.2.jar"/>
+  </target>
+
+  <target name="main" depends="compile"/>
+
+</project>

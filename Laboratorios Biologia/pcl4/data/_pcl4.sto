@@ -1,0 +1,205 @@
+# STOCKHOLM 1.0
+
+#=GS AVM87259.1     DE polyprotein [Guangxi houndshark hepacivirus]
+#=GS AVM87258.1     DE polyprotein [Nanhai ghost shark hepacivirus 2]
+#=GS AVM87254.1     DE polyprotein [Xiamen sepia Stingray hepacivirus]
+#=GS YP_009179227.1 DE flavivirus polyprotein [Wenling shark virus]
+
+AVM87259.1             ..............................................................................................mitkkpmhnlpdlgespetgvpaaleqwgqkptprllrtvarlakwrrsrlltavvekarasrqflyhhlghvpkemlglsglvsvdpvsfkydpttvvikdesrf
+#=GR AVM87259.1     PP ..............................................................................................**********************************************************************************************************
+AVM87258.1             .......................................................................................................................................................................................................m
+#=GR AVM87258.1     PP .......................................................................................................................................................................................................*
+AVM87254.1             mpaanayalkcsvyplpqiteqgiatltavsscpperprapaprkttgiffkhymmattkrfqrlaavapldttpvvktrampsnsrlaavrrwarlglwrlirmklkswrirgcyfykhlghlpfdtsklgrclsvepftvdpdqftrvvdnprlecgmevfesgvclpvvrrlgdlrmagirmelfkidlsswtlcap
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         ...............................................................................................................................................maeqwgtppsprllravrrlvrwrrprllhsliqkartngeylfehlghlpkefaal
+#=GR YP_009179227.1 PP ...............................................................................................................................................*********************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             hwcgdsctykvddtihylpvvyrnnddycwfgvtarpapagawlaaarrgyepgsftrqpgggvaysrgreryraaaaperrpqsrsisrrprpafigplprprsrsrsrsrkrpqqraksnrsrnwfarhaygggiygvdwalqraaqlavpeqknwqhdprkrarnlgrvidgatgwladvgmalpgvwpvtgytarm
+#=GR AVM87259.1     PP ********************************************************************************************************************************************************************************************************
+AVM87258.1             vtmnrtgraimrqirqrdmsrsrsrsrsrsrvrvrsrsrprkgansgtrrgprsrsrggsrrrsrsrsrqrsnnrrgnmadkarqsiysaatsahatvkglarggglpyvdkalsnatwtmgigtpskdwprdprrrsknlgrvvdgvfgaagdigsripvvwpvtgfaakgaaevvrlaedlvnaitgtfgvqlfviam
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             pergrsvtrsvlrgarstsrsksrvreptiqqiiqrarsksrarsasrsraparqpaptrgrsrqrkgkgkaenkqrsasrarskspaidppawarkaysyfpsglrkaksvnkprwwldnlanysrgggwtyvddllrrgmgllgsqrshdwnydprrrsrnlgrvvdgltgglsdiamrtpawplgyalrgvshtira
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         ghfvsldpvtyvpdsgfccfkdkarvawcgdsvrvqgdsgvirvpvthrsdldyvfagvagqqlpssawmaggrprgrsrtreralvvwqpprapsrrrsrsrsrqgprgrsrrrsrtpsrsrsrssrpsrnwfarkayggpipgvdwamhslqrlaapksggwsddprhrsrnlgrvidgvtgwaadlgmslpivwpvt
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             lahiirgvedvinagtglvglqlfiimvvllpvptgalpsrvcklpngthtitnvcnqedlsfctydmcwhapgcvvatdvcwksynptlshhpnhstplsyfadhldmftvatytceitgigsycfaalfvidygaslwphtvitncslpcgkaieeseiltlwdsfadgnpflevaayviyqvpwlihmlfsqlhigi
+#=GR AVM87259.1     PP ********************************************************************************************************************************************************************************************************
+AVM87258.1             lsalacpvagepsrtcrlsngtnivtnvcsqqdihyctptscwheagcfiadedgcwpavtlvmshhpnasnditqlsyhlnmftlvmygcelsgwgevcgmvtvafdfvytyrtiaitivcnhtcgsdvvspdltrswfaffwaeqtvaeiileaigglpwllnvlmttghiavlfvciayvvdgrwprtvvllilftl
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             vedvcncitgqtlgisifvlaligllpvaqggevkldngtwtvtnacsphqihycgggtcwhdvgcvvatmhngtvncwnlvspgvssdggdeavhqladhidllsvcalacdisghaeacaslsvfaalgynyamhtalvivrnvscgldptmpsstiaffeaafsgfpaavvafigavprllaamasgghflligvii
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         gyglrflahcvrgledvlnagtgvagvqlfiimlcllpvpmdsaptkacrlpdrtwtlsnvctqadlryctsdmcwhspgcyvatdicwtqysptlshhpdraspltlfadhldifsvvvygcevsgagevcgvtlvildllveyfprhvetncsmscglsvdaftittaldgllesnafldlmamvlkqvpwligmlft
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             lfvsvayviegkwprvvllfclygslhtaaaaqcnlsgqrkhrcflpdfnwvrelrphraagwrgpcinpefqpcdlgypdpdcrgdnftfnpahdlkkcnwghvlskcvhatntsnatdhalragfirfqhrlvgfkcvctphpmtrmpgaphlhrrrvpwfplfgvpvttsgsrtvaavcpghaflvgvtgttavqls
+#=GR AVM87259.1     PP ********************************************************************************************************************************************************************************************************
+AVM87258.1             mhsarvgadsqyndttrcrkytnlttsyecwvpyhflpvarkvaaandtsnyrlkwdfrghrgicrvwshghrlqfklvwsgsyvhvsadtnnvncslgvqpcetrgdgfrrrrkdtlakchygpqlapcvwvtnnrypdsyaqlgrttmpvdctcrfdrvtrhpgnpvmrdtktiyncpghailmgdnakglvvfdage
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             yylmsatplralllliiynaaiaesifslpgpicqhyyratevsgiicfaphpykphiffhnashwgvairswsecfravspptvdalgwvfwqnsrmnhhlkpmcvrpgrpaertgcarpgddfsvsgpghtlercfygrqlnphinatilgpnpshairtggvlvavnchttppfytrmpglpalysvnyfancpmhl
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         efhmgilfvsmayliegkafrvvmllglyatlhsavaapcdltlryhscftphlqhvfnktpvarmrgkcinpegqpcdigkqpcvgmgdnftvspkltlaachfgrnlsrcvsatntsagekpdgkirfkriplpvtcickpdrlsrmpgspyyqrrkfpwfplwgvpviagrdhieafvcpghafaigdatqgrlala
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             spheqvftnlehthllallertiflfsfaqfvgarvlgllyllsmlvlvqgaldcsgivalaasplvsldpfalvcvwyvlmagprvttkiaavvlmwayrakwltlvvvaaavwtparvlgapiaavtpinpaypiiflvvgfcclpffrfkqlrlaaawhvqymyslieiatealcvgtappgavivttlavyavgls
+#=GR AVM87259.1     PP ********************************************************************************************************************************************************************************************************
+AVM87258.1             hqvvaglspvssvivlehtififltlqfmgakvtgllyllilcatteaavpwqipaamatagvaearpwlavvslwvviygnntmaalvaiansvrglgwfmflcagwcmtnntvaglsypdvamavsspevgftllivvlaalillpvrqvrryrmalawhveyvqlliqaamgsgptnplpavlvpltcvaayatepc
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             wtrsydissgqirvghngrqiayggsgmshtplmlrwfiyiglgclmgakylplaliiiaavvsgnslttitvsyfagsclqfnhllvagcllllrpetskiiclvlclatdhvrvalitvcsmfltgvggsdgtilaagggllalspllllrvvhrgrlalwfwvhwaatlcecwlstveapglaarvviaglgytlsp
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         setsqvftglpkshlfslfersvflfcllqfmgarlvglvyllwvmgfaeasvdfsapvalataplidlapwlavavwvllmygsrplslalgvvlqvfygqrlsallavavllltrnsalgddgsyntpaincwaavgfiflltwvpfwrfrvwrvklawvvfylrevfyatlealfksppttlvypvyallvwcagca
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             hyacyalyilgfaavvdilaycitctllpsdryrlvdwlssvimqlpealakalgtcmvwkleayrvymydhiaelgpsvkalagligaaldpfcfptdqveyiqdsarayacydvingkpvvarcgdslllgvprgglpagyektlpvaarvvsqrgffrtlaisivgkdaqtha-GQVCVLRSALSSSMAYGCNGVLY
+#=GR AVM87259.1     PP *******************************************************************************************************************************************************************************5.99*********************
+AVM87258.1             flseavfwllvitisadlvfkavmtalvpirqerlvdglsalimllpnalaacigsvlvlaldrhkiflyhhlgelgghvralaelvgaavdpftfprdhvvyiqdnarryackdivnglpvvarregtillgvprsglppgyqlctplvttvhsentmmrvlgvsitgsdarvav-GHVAIVRSLMSKSMGYACDGIFH
+#=GR AVM87258.1     PP *******************************************************************************************************************************************************************************7.89999******************
+AVM87254.1             vgctisavaliafecfsvlysllriiivptgrtrlanriafrilrlpaplrspsawafvrllqrceitlydhihkfgpsllalartydfatdpltfycddvkfvedkarqlacgmvvnglpvyarcgakvilgvpraglpfdyqfckpvsttvrndigffkrmiihltgkdagksa-GHACVLKGAMGKCMAFGFGGVLQ
+#=GR AVM87254.1     PP *******************************************************************************************************************************************************************************6.777899999999***********
+YP_009179227.1         gyapyclyaitccsvvdalfycalhyllpvdrnrliewcckfciklpllleravgtllvwrlsayrvyvydhltplgpamrtlaldiraatdpfvfptaevkyihdsavryacgdcvgglpvvarrgasvllgvpldgipphynrcapvttkvmgddgiftrlkvcitgrdstths-GQVCILKTMLSSSMGYGCNGILF
+#=GR YP_009179227.1 PP *******************************************************************************************************************************************************************************6.99*********************
+#=GC PP_cons           .................................................................................................................................................................................89999******************
+#=GC RF                ................................................................................................................................................................................xxxxxxxxxxxxxxxxxxxxxxxx
+
+AVM87259.1             TTTHGAKGRTLAS-LESNTPIVSDAKTDVSTYPLPAGMTCLTACTC.PKVNGYLLTKAGTFLEARFVVDHH.WNLTVPAPVAVLRGSSGSPLVCPKGHAIGTFRAAAVAKGMGTAISVVPVDT----pllastvdpsmglpslptvpetyevrefvaptgsgkstvapltyvkagkrvlvlnpsvattaaippymkathd
+#=GR AVM87259.1     PP ***********97.567799**************************.************************.************************************************975....8999*********************************************************************
+AVM87258.1             TAYHGTKARTIASHDGPLAAIAYNSELDVCTYPCPQGMTCLEACGC.NDEVAYLVNHLGGTNRAARVSDDI.YRLARPVEMSVLRGSSGAPLLCCRGHVVATFVAAGVCKGVGVTLKVVPY------gadiskvgttvvapyaagsaplvptkyevqslvaptgsgkstalpmeyvtkgrnvlvlnpsvattssmggymy
+#=GR AVM87258.1     PP **********************************************.************************.**********************************988999889999986......678999*******************************************************************
+AVM87254.1             TVEHGTNGRTIATPDGPRQPIAVSSQSDYASYPLPAGMQCLDRCTCtGLTRAWQLMRDGSLHEVNATKDPTrWLKVEAIPLTLAKGSSGAPLVCDNGHAVGMMVAAAHLRGVVTKVIIRPQ------ddalaqvnvtpcdttspptvpdeyrvvsfvaktgagkstklpfhyveqqlrvlvlnpsvattasmgkymhsef
+#=GR AVM87254.1     PP **********************************************66799************998888651555789**************************************99986......567889*******************************************************************
+YP_009179227.1         TTSHGSRARSMAAEGGARNPLSDDSQSDITCYRLPKGMSCLQQCTC.MCRTGFLVAKDGGTYPVTHREDEV.WALDSPTPLSLLRGSSGGPVVCPQGHAIGTFRAAGVRGGVGVAAHVVPVR-----mpegapgpmptpencitptptaqfsikelvaptgsgkstrvpadyisaghtvlvlnpsvattaampgymhsky
+#=GR YP_009179227.1 PP **********************************************.************************.************************************************96.....57899********************************************************************
+#=GC PP_cons           ************9*9999****************************.99****************999999.9999*************************************99*9999775.............................................................................
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.........................................................................
+
+AVM87259.1             iapnwhcgvksvvtgspltyatygkflamgpellaqadvvfcdechatdatavlgislvldtaeragvklvllatatppgcnlvahpniqehqlsakgdipfygssleseryatgrhlvfcdtkkmcetvannfkaagimavtywrgeditvippsgdvvvvatnalmtgysgsfhsvtdcccevvasaaidfqptvtls
+#=GR AVM87259.1     PP ********************************************************************************************************************************************************************************************************
+AVM87258.1             nrykvtpnvhfgdtsivtgsrltyatygkfmargpaaltgvdvvicdechstdtttvlgmsmvlamaeqagvklvllatatppgcpvtphpliqevelpdkgdipfygkalevaryargrhlifcdtkkrcseiaaelrlrkvvvltywrgcdpksipvagdvvvvatnalmtgytgnfdsvtdccsevvptldvsfept
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             nvtpnlyyaeksivtgsrlsymtygkfmgsragtlnnydvvicdechstdavsvlgigtvlgaaptsgvklvilatatppgfvvtphdniaevelddegdipffgkklkselykkgrhlifcdtkkacttlanqfaakgidastywrgnhvedipvgddivlvatnalmsgytgsfatvtdcccevsanldmdyaptmtv
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         glspnwhcgntsvitgspltystygkmlaigkpmfegvniiicdechatdattvlgiavvlseaesmgvktvilatatppgthmaphpqitevplgtdgdipfygsslkstnyksgrhlvfcdtkkqcvaiadsftalgieavtfwrgkdvsvikaegdivvvatnalmtgytgnfqtvtdcctevvsnaeidfqptiti
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             vrsqlttvvsrmqrrgrtgrgevgnyyfthanatpsgivplaivlevydmalcwygispdrvttllaayanqpllpscrfdpdtvgsfftsfagyaqsadvarakreghsfplltgaqvaynresgftlpttprfegygveqneetcitlynldgpvtnyvtdntriqqlqaclgmvetdmslslglslaagmlavavit
+#=GR AVM87259.1     PP ********************************************************************************************************************************************************************************************************
+AVM87258.1             itagvrsamttpvtrmqrrgrtgrgkqglylytykgterhgsvpsasvweaydiaaawyglspamtslrlryyknqpalpsirddlevieaffsevmtsmntpevaqmktrevsfpllsgfqiaycrrmnlplpacerfanvgvpmsadglalyaldgpiqtystestqvatlraalgvtyedsssfvlgmagvvtlagv
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             slrswlssdvtrvqrrgrtgrgkrgtyyyttktyvatgsvssatvlecydmglswfnleplqverilnyyanqtslatigedlgmfttifnllapfngshwvttamnqgwnyplitavnmtiaqrqnrqlpaaeryrsvpaegrnrqiaivisldgpceaydtdetlvqsviaamteteidtmltpvlalgigivalati
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         svrsqlasvvtrlqrrgrtgrgapgtyffalkqhgqagivplstvmevydsgmawytlaparitqllgayalqpllpcitteltpvqdfytsmiravtspnvarakqqevnyplltgsqvdfaqergytlpvcdrykgygvpladkdaillynldgptqhfnsdntrvlelmgalgvvqldmslvaglalaaglcsvavi
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             dnvgslvvgdtflirqeippprnytppddvlfecvegwdlggamnlgsdlyakfktavvaadipakaaslrdaaaaavspmlgitpkdeplaqkfltllgehassimsaaqmlggfavlsrsplmggallgtgfyllpvsipgrfylamlagglgtwlatpqagftaalgsfaglalaesgfgsivfsgfgtwaaastaa
+#=GR AVM87259.1     PP ********************************************************************************************************************************************************************************************************
+AVM87258.1             avlldmmgsivvdttflvgdntanpskyeesyfaegfinmssdygmgaameragpvlkalqtklgvyaataattaktaaarvglvaadpsmqqkiadtlhqyahpiagaiqaagglailassplmgasllgagfymlngtvaqklymslmagalgtwmsnpvgglaacagaaagalvgatgigslvlevlvgysattsaa
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             meatgslvvadgvwiasvagkgagkyvsdpitdgdyetvqtaaaaldlggaykvlepitgslhrfgaavgsaggaaldkmttglewvtaggatrvgrtvtagaqnhmtdamawakavaageaaethlmklistsipwiiggaqmlgglgilskapligacmlgtgyfivpvtlaakmymavltsaagaviagqvggictl
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         adslgsimvthtfhvcmqgqrapvhedpglslqecvegvdlsgaleitkplydriweaasqhataastavgaaaaphidllktktaeiadiaakhgaaaaaycklhgtkaldwlkelragsvppvpelplppppppvpfgtqvlgflaehgpkimaaaqvlggftilgtspamggamlgtgffllprslpgrffmamlag
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             sitfdllagkyptkeemfalisillnpgaavvgvvmggilstyvakgnhdwmnrllamavrgnvlppgyfvegatardkvgimlkgltpgallaaslrwakeptvvamssswvfdyiweivcamvrwtkatihnavtalepkipllscskpytaglagtgsintvcpcgaalaysvnegravctyasrvscrgywcsgvi
+#=GR AVM87259.1     PP ********************************************************************************************************************************************************************************************************
+AVM87258.1             llmfrmlqgeipsvpevisgitcimspgaaaagvvlslvlwkalghssatwlnrmlamcvkgnvlpanyfdettdqrtkmceilrvltpaalidaasswskatevvqcdshwliqtlvdlvmgffrtivagwkaatnvtpniplltcskpykgaisgtgsvntvcpcgnsisyvieagavmkkssasnlcraawssgvli
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             igagtgailgattlggyivqllhgysagstlalvtfkyltgnpistvewvscltglmspgaavlgammafllwkfaskshtewmnrllsicnkgantpcdyyltpgkmnedilkvlerasitswitkannwmmheatentddrgffmsiltwvsdwvragiaaaqkairgsytrsvplwsctrpyhgeikgtgtiktvcg
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         glgtwlstpaggfaaalgsfagialadsgfcsifqqalttymgattaasivfdllggklptaqeavglftliinpgaavvgcvlagllhayatrgssewlnrmlamavrgnvlppgyfvegetprekistllrsmtpaallratlswtrttntvvmadqphhwlfdyiwgilcgigrwarttiatftqslepkipmfsct
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             lnsntqilgtvclaprfpydavvpsglaglytvtvrssgytmrsstssnvyvsltgppplsscifingaptmhyessyrkadhmwgsgavvivngeevtlphiveyptnltnipmntilpnhhlaerpptrdwsdfdddhaslchvwngargeeknrcqrdcpdlpqvdvvedysfsicrmmggnsrarlhgdvttipve
+#=GR AVM87259.1     PP ********************************************************************************************************************************************************************************************************
+AVM87258.1             lrnscskgrlffrpdkpftgiypigindaalvrvdrgtytvlettsetirlpsqmpshvgayitvngwntpnvctnlrypmrwrsgacvavngtdvslphvtreysqvgksvldhhtqeieedllamaygawddksstamaaskarqmakadivpstvsqeevyytpmwggpertpstveieraevlaaisaktaavvsk
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             cgavirytihdgdvvgffcssticrsklsdgvvlgpkvrmafedgpfifppyrgrhcqvrnihmtdqvlirfeddkrpvliasscenipahiwdvtnwpiastqvdgspmirpdsetiksmpygtgwevnlggknvvlpvrlnrkvrdaapirkedpigdmqnarrdqiiqalqdaainvddtaedvqaaltgaeencms
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         kpytaglagtgkintlcfcgaalsysvvdgnpvcefssratcrsywckgvplgpqsvltgtvslapeypyeaeypcglrdrvlirhvlegftvlksssqcvyhpisyvpnlrraikvngapvthnesnvrnvadmqwtagatirfnheeiklphtvifntnyrdegtgeipeveepperadvcsekggswsevsvphhpr
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             snragfihdpsrppqsglpcdpvqppqsppedmpalesdsdgdlgvpssaftiaqvhrpgtgyvneafemeeiksqaqedeadweslsgsittarseidlsptppgsesipmshmgesepavlecggvddcgshasvggmsavftpgstseplsvhrsvsfaeiptvvdiptvrrrrdslkfqtmsesyiwngtplltrw
+#=GR AVM87259.1     PP ********************************************************************************************************************************************************************************************************
+AVM87258.1             rkdleqqrlaaaearaamirsmnaecdrmdavrdemealyergkllesrpkwrnaprpegvpvletawsqtsdvqlaaklmasdaippcetdvmsqqiadsllalkcegrasdlvggltaelvdsmvedteilpgsgeidalleepkletsgtavtslpepltavieeelaearaalpmedpapwlewpsdapifdvrsn
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             fklqgedtwiyrknpvsdpgqtcescngeaefvdkdgnpiavervglserhglgeerncdigdryrrkgatlaedlallqdragsetasevgnkpyshagsqalgsddesgeeesasevtyhdakaeppkktvriqvevdkedcladlpdrvlnyirhippiiprsngevvvrqetvcrhrrrtrrlttadlpaqwpndl
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         swgsedlkpcspprsvdpdfcvnrwlnqpitaefpteypsrtnsdpgegergrtspytgspappsegiaviditsveqpkkrggpaiinaayvqgppnpirksilslpgsvkrlvrsissdtptaiplvtrqvsdagdsrgrhvhygratgaedrchctfaetgspagtvhsksslcsptpsvkrvtfhdnkafdpgpee
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             msvalnpvaasayyfganrgriyatdpdriaerakkvtfdrperteftelnemytkahqiastlklepmglkeacesvpphsatscvtghtaedvrtmkpsavkaikeataalglpegnaelqkkwlfttimpkvewfvrrpggsmkpprlimypplevrvaekrflgniapevckavmkeaygfdktpkeratfvvnww
+#=GR AVM87259.1     PP ********************************************************************************************************************************************************************************************************
+AVM87258.1             kekdlararfrenllllgsevkralvtgdlmavccaatymtdtvleaayyctdkpditvlsplsrltveqlaaamtywlnffsqaapnmtcvalegpgpephrepsvtfgdvtfakegdmarqvptlieakaafggpwakwgdghltpdgssicarrediemlrmehptaasdvsydsrslpstpagsladdatavaama
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             enpfegmppletfeemesavetisvtetiasgssiksierksevvpskqhlinshvktvkenlqraivaeqvdvqaataviqmientiptddtspetkrvklvkdlkeqvwreeidakyrayteldppnpemrlnrgvrdptekkekvksmlvegkrksdnkekrekpksglaklltpgpvkkegattsqsppelvvggt
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         iphpldpgkttdvhglrirrfektnetwspmshsyvwngtppltawvrkamnpvaeaafhlgtkrgalyatdperigeriqkvtvwrdsftetpeyryfvnlardramgvrertmtleeacaatpprsarscvtgltaldiravtpdarqavydayaavchgvdkdkwafttlmpkvewfvrrpggsmkaprlimypple
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             nthkqavvfsadalcfdsqiteedmareaeifaaaakepaiarailechkrlymsspierpdrtvvgtrncrasgvyttsagntltawmkmraglkqagfrdsrlmvcgddvivvaasdgpeidkakahhlteclgamglvqgstiepqydlervatcsnyisvaytktgerpyyflspdptkclgrcmvetpqkkalnt
+#=GR AVM87259.1     PP ********************************************************************************************************************************************************************************************************
+AVM87258.1             qdrhptnergpslpmtalayesteggphmepgaspvcagprtqrtsrttwdtsfcdpafwevvkdnaviagahtanvvvsgdtvkpdtwglppppetfelashsyiwngaplvramrrtflnavagasyyfganrglvyatdplmagerakkvtmwrnpvpasqhyadavaeamtkarqtkvwrmsledavqavpnasak
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             kpsarddvaaerlvdttppetvertslsymwnglaiavrmarkrllptaplgsrlgryrnnvywtdphdigtrqkkvtidrnpiksksyqividetmnrasklslrpasideaiqklnpasakscvtgltakrlkaghgvsgvkaarealitgegkdrwcfttvmpkveafprkpgmvpkaprlimyppletrvaeksil
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         vrvaeklllgriapavckavlreeygfdctpqerasrlvkwwnttnnpmvftadafcydsqitphdmrveaqifadgtrqpdakkdihgitenlyawspvertdrvvigaracrasgvlttstgntltcwikmkaamreagisdphmivcgddcivvarsegpecdkdrlevlsnrlsnlglrqgdpilpaysleavttc
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             wlsalvmyyptffasrvlatafmrelikmdvtgatvieftyngnkistplrllpgilvnlhgldvfslkaystkhvgdtiaalqylgykplkywraetkrvfiqclklggvwnnlayhllwhatdrppistisqqtlelasakritsippysnvevgivpkqgwpdiivyhspvlfalgvaavvltitaaflmr......
+#=GR AVM87259.1     PP **************************************************************************************************************************************************************************************************......
+AVM87258.1             saetgltpldlkagkgkagiwaaydavtkakdmhkwcyttlhpklewfvkvptrnytkkpprfimyppletrvvekmllgdvapnvvkavlgesygfdktpegraehivrwwhqmrnpmcfaadglvfdsqvtphdmrteatifgapadkqhaadimaltnnlyaqspirrhdgtvvglrqcrasgvyttsagncltswl
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             mgvadectkqllgsaygfqytptervntlvdwwnsftrpvavsldtvaldsqitptdmvteariwgeatdpesarnilaltqnlyasspirdaadnvvgirncrasgvfttscgntltvwmktkaalraagvgrhkilvsgddclvlmesdgveedkakvrtivnnlaevglkqrdtqwaynlesvescsvrvssavdkr
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         sayvttaypkdqrnpdyflspdpvrtlgrcmvesrdrtapftwlsaivsyyptyfasrilcvawlreiinakkydadstlafeyygnvieaplkmlpyilvhlhgrnvfsytrysakhlgdvshalerlgykpirawrnearrvwalclkeggtlyflarhllwhasgvppvnsldryylkkvecnsmtqllpfssvhvd
+#=GR YP_009179227.1 PP ********************************************************************************************************************************************************************************************************
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             ........................................................................................................................................................................................................
+#=GR AVM87259.1     PP ........................................................................................................................................................................................................
+AVM87258.1             kmtaamraagvknpkmmvcgddcfvvcestvphedsdlllrltrelaklglvqaapivagysleavstcsayvtaakttegvdryflsqdpvrvlgrcmveseeksaictwtsyiiaqyptlytsrvvavglieallsqthvgqdatltfeyngntftipteslpqilehlhgpdvfkiarysakhvyetvealkylgfe
+#=GR AVM87258.1     PP ********************************************************************************************************************************************************************************************************
+AVM87254.1             tgkrkhfcstdpakpyaraigetegkevgptwlgniiayfpalwtrplvtalmetlllddeasgdkllsfeyrgnmiqctlqvlpeiilamhgpaafalegysqielqatteslalmgyptlrawtkrgkniaalarkrgglfarlaktllwwtdrkppsdglfnatavrrikaaewvtsapyessvhsavpekiriqev
+#=GR AVM87254.1     PP ********************************************************************************************************************************************************************************************************
+YP_009179227.1         ygegplgrgpsriswqmigaavlvltalfaalwplrg...................................................................................................................................................................
+#=GR YP_009179227.1 PP *************************************...................................................................................................................................................................
+#=GC PP_cons           ........................................................................................................................................................................................................
+#=GC RF                ........................................................................................................................................................................................................
+
+AVM87259.1             .......................................................................................................
+#=GR AVM87259.1     PP .......................................................................................................
+AVM87258.1             plrmwkkrailtwrraqtstrairelartllwwavkvpthskppspserdmafgiqladiepwgrreyvyrenvkpqkyaiglllllmigavkvlglwallaq
+#=GR AVM87258.1     PP *******************************************************************************************************
+AVM87254.1             vgsfvfalgiaaliltaiym...................................................................................
+#=GR AVM87254.1     PP ********************...................................................................................
+YP_009179227.1         .......................................................................................................
+#=GR YP_009179227.1 PP .......................................................................................................
+#=GC PP_cons           .......................................................................................................
+#=GC RF                .......................................................................................................
+//

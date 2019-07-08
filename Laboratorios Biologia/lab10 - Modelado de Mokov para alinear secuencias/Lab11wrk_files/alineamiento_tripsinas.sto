@@ -1,0 +1,64 @@
+# STOCKHOLM 1.0
+
+#=GS pdb|2RA3|B DE Chain B, Trypsin-1
+#=GS pdb|2RA3|A DE Chain A, Trypsin-1
+#=GS pdb|2R9P|D DE Chain D, Trypsin-3
+#=GS pdb|2R9P|C DE Chain C, Trypsin-3
+#=GS pdb|2R9P|B DE Chain B, Trypsin-3
+#=GS pdb|2R9P|A DE Chain A, Trypsin-3
+#=GS pdb|4WXV|B DE Chain B, Trypsin-1
+#=GS pdb|4WXV|A DE Chain A, Trypsin-1
+#=GS pdb|4WWY|B DE Chain B, Trypsin-1
+#=GS pdb|4WWY|A DE Chain A, Trypsin-1
+#=GS pdb|1TRN|B DE Chain B, Trypsin
+
+pdb|2RA3|B         IVGGYNCEENSVPYQVSLNSGYHFCGGSLINEQWVVSAGHCYKSRIQVRLGEHNIEVLEGNEQFINAAKIIRHPQYDRKTLNNDIMLIKLSSRAVINAHVSTISLPTAPPATGTKCLISGWGNTASSGADYPDELQCLDAPVLSQAKCEASYPGKITSNMFCVGFLEGGKDSCQGDAGGPVVCNGQLQGVVSWGDGCAQK
+#=GR pdb|2RA3|B PP 8*******************************************************************************************************************************************************************************************************
+pdb|2RA3|A         IVGGYNCEENSVPYQVSLNSGYHFCGGSLINEQWVVSAGHCYKSRIQVRLGEHNIEVLEGNEQFINAAKIIRHPQYDRKTLNNDIMLIKLSSRAVINAHVSTISLPTAPPATGTKCLISGWGNTASSGADYPDELQCLDAPVLSQAKCEASYPGKITSNMFCVGFLEGGKDSCQGDAGGPVVCNGQLQGVVSWGDGCAQK
+#=GR pdb|2RA3|A PP 8*******************************************************************************************************************************************************************************************************
+pdb|2R9P|D         IVGGYTCEENSLPYQVSLNSGSHFCGGSLISEQWVVSAAHCYKTRIQVRLGEHNIKVLEGNEQFINAAKIIRHPKYNRDTLDNDIMLIKLSSPAVINARVSTISLPTAPPAAGTECLISGWGNTLSFGADYPDELKCLDAPVLTQAECKASYPGKITNSMFCVGFLEGGKDSCQRDAGGPVVCNGQLQGVVSWGHGCAWK
+#=GR pdb|2R9P|D PP 8*******************************************************************************************************************************************************************************************************
+pdb|2R9P|C         IVGGYTCEENSLPYQVSLNSGSHFCGGSLISEQWVVSAAHCYKTRIQVRLGEHNIKVLEGNEQFINAAKIIRHPKYNRDTLDNDIMLIKLSSPAVINARVSTISLPTAPPAAGTECLISGWGNTLSFGADYPDELKCLDAPVLTQAECKASYPGKITNSMFCVGFLEGGKDSCQRDAGGPVVCNGQLQGVVSWGHGCAWK
+#=GR pdb|2R9P|C PP 8*******************************************************************************************************************************************************************************************************
+pdb|2R9P|B         IVGGYTCEENSLPYQVSLNSGSHFCGGSLISEQWVVSAAHCYKTRIQVRLGEHNIKVLEGNEQFINAAKIIRHPKYNRDTLDNDIMLIKLSSPAVINARVSTISLPTAPPAAGTECLISGWGNTLSFGADYPDELKCLDAPVLTQAECKASYPGKITNSMFCVGFLEGGKDSCQRDAGGPVVCNGQLQGVVSWGHGCAWK
+#=GR pdb|2R9P|B PP 8*******************************************************************************************************************************************************************************************************
+pdb|2R9P|A         IVGGYTCEENSLPYQVSLNSGSHFCGGSLISEQWVVSAAHCYKTRIQVRLGEHNIKVLEGNEQFINAAKIIRHPKYNRDTLDNDIMLIKLSSPAVINARVSTISLPTAPPAAGTECLISGWGNTLSFGADYPDELKCLDAPVLTQAECKASYPGKITNSMFCVGFLEGGKDSCQRDAGGPVVCNGQLQGVVSWGHGCAWK
+#=GR pdb|2R9P|A PP 8*******************************************************************************************************************************************************************************************************
+pdb|4WXV|B         IVGGYNCEENSVPYQVSLNSGYHFCGGSLINEQWVVSAGHCYKSRIQVRLGEHNIEVLEGNEQFINAAKIIRHPQYDRDTLNNDIMLIKLSSRAVINAHVSTISLPTAPPATGTKCLISGWGNTASSGADYPDELQCLDAPVLSQAKCEASYPGKITSNMFCVGFLEGGKDSCQGDAGGPVVCNGQLQGVVSWGDGCAQK
+#=GR pdb|4WXV|B PP 8*******************************************************************************************************************************************************************************************************
+pdb|4WXV|A         IVGGYNCEENSVPYQVSLNSGYHFCGGSLINEQWVVSAGHCYKSRIQVRLGEHNIEVLEGNEQFINAAKIIRHPQYDRDTLNNDIMLIKLSSRAVINAHVSTISLPTAPPATGTKCLISGWGNTASSGADYPDELQCLDAPVLSQAKCEASYPGKITSNMFCVGFLEGGKDSCQGDAGGPVVCNGQLQGVVSWGDGCAQK
+#=GR pdb|4WXV|A PP 8*******************************************************************************************************************************************************************************************************
+pdb|4WWY|B         IVGGYNCEENSVPYQVSLNSGYHFCGGSLINEQWVVSAGHCYKSRIQVRLGEHNIEVLEGNEQFINAAKIIRHPQYDRKTLNNDIMLIKLSSRAVINAHVSTISLPTAPPATGTKCLISGWGNTASSGADYPDELQCLDAPVLSQAKCEASYPGKITSNMFCVGFLEGGKDSCQRDSGGPVVCNGQLQGVVSWGDGCAQK
+#=GR pdb|4WWY|B PP 8*******************************************************************************************************************************************************************************************************
+pdb|4WWY|A         IVGGYNCEENSVPYQVSLNSGYHFCGGSLINEQWVVSAGHCYKSRIQVRLGEHNIEVLEGNEQFINAAKIIRHPQYDRKTLNNDIMLIKLSSRAVINAHVSTISLPTAPPATGTKCLISGWGNTASSGADYPDELQCLDAPVLSQAKCEASYPGKITSNMFCVGFLEGGKDSCQRDSGGPVVCNGQLQGVVSWGDGCAQK
+#=GR pdb|4WWY|A PP 8*******************************************************************************************************************************************************************************************************
+pdb|1TRN|B         IVGGYNCEENSVPYQVSLNSGYHFCGGSLINEQWVVSAGHCYKSRIQVRLGEHNIEVLEGNEQFINAAKIIRHPQYDRKTLNNDIMLIKLSSRAVINARVSTISLPTAPPATGTKCLISGWGNTASSGADXPDELQCLDAPVLSQAKCEASYPGKITSNMFCVGFLEGGKDSCQGDSGGPVVCNGQLQGVVSWGDGCAQK
+#=GR pdb|1TRN|B PP 8*******************************************************************************************************************************************************************************************************
+#=GC PP_cons       8*******************************************************************************************************************************************************************************************************
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+pdb|2RA3|B         NKPGVYTKVYNYVKWIKNTIAANS
+#=GR pdb|2RA3|B PP ***********************8
+pdb|2RA3|A         NKPGVYTKVYNYVKWIKNTIAANS
+#=GR pdb|2RA3|A PP ***********************8
+pdb|2R9P|D         NRPGVYTKVYNYVDWIKDTIAANS
+#=GR pdb|2R9P|D PP ***********************8
+pdb|2R9P|C         NRPGVYTKVYNYVDWIKDTIAANS
+#=GR pdb|2R9P|C PP ***********************8
+pdb|2R9P|B         NRPGVYTKVYNYVDWIKDTIAANS
+#=GR pdb|2R9P|B PP ***********************8
+pdb|2R9P|A         NRPGVYTKVYNYVDWIKDTIAANS
+#=GR pdb|2R9P|A PP ***********************8
+pdb|4WXV|B         NKPGVYTKVYNYVKWIKNTIAANS
+#=GR pdb|4WXV|B PP ***********************8
+pdb|4WXV|A         NKPGVYTKVYNYVKWIKNTIAANS
+#=GR pdb|4WXV|A PP ***********************8
+pdb|4WWY|B         NKPGVYTKVYNYVKWIKNTIAANS
+#=GR pdb|4WWY|B PP ***********************8
+pdb|4WWY|A         NKPGVYTKVYNYVKWIKNTIAANS
+#=GR pdb|4WWY|A PP ***********************8
+pdb|1TRN|B         NKPGVYTKVYNYVKWIKNTIAANS
+#=GR pdb|1TRN|B PP ***********************8
+#=GC PP_cons       ***********************8
+#=GC RF            xxxxxxxxxxxxxxxxxxxxxxxx
+//
